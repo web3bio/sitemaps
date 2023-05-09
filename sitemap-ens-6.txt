@@ -17669,7 +17669,7 @@ https://web3.bio/ty42.eth
 https://web3.bio/yordan.eth
 https://web3.bio/crestfall.eth
 https://web3.bio/0days.eth
-https://web3.bio/;0000000000000000000000000000000000000000000000000000000.eth
+https://web3.bio/0000000000000000000000000000000000000000000000000000000.eth
 https://web3.bio/yangxt.eth
 https://web3.bio/alexiskefalas.eth
 https://web3.bio/ryanmartinez.eth
@@ -19959,7 +19959,7 @@ https://web3.bio/nickcarson.eth
 https://web3.bio/timomeyer.eth
 https://web3.bio/ooob2d.eth
 https://web3.bio/windpia.eth
-https://web3.bio/abcdefghijklmnopqrstuvwxyza.eth
+https://web3.bio/abcdefghijklmnopqrstuvwxyza.eth
 https://web3.bio/ovodoff.eth
 https://web3.bio/dvachan.eth
 https://web3.bio/p00rfag.eth

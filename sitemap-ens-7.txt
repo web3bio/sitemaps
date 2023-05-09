@@ -27295,7 +27295,6 @@ https://web3.bio/humansofnft.eth
 https://web3.bio/lonelyheart69.eth
 https://web3.bio/ryokado.eth
 https://web3.bio/deafandloud.eth
-https://web3.bio/0xeth
 https://web3.bio/mikefromtoonz.eth
 https://web3.bio/kempamariusz.eth
 https://web3.bio/hexsatoshi.eth
@@ -35361,7 +35360,7 @@ https://web3.bio/wuxue.eth
 https://web3.bio/exitcapital.eth
 https://web3.bio/otherthing.eth
 https://web3.bio/futuristmirror.eth
-https://web3.bio/friendlyneighborhoodswinger.eth
+https://web3.bio/friendlyneighborhoodswinger.eth
 https://web3.bio/digicashdeployer.eth
 https://web3.bio/amyron.eth
 https://web3.bio/payees.eth
@@ -39998,3 +39997,4 @@ https://web3.bio/uspenskiy.eth
 https://web3.bio/thecontentbaby.eth
 https://web3.bio/joeyjoe.eth
 https://web3.bio/qhost.eth
+https://web3.bio/bongabera.eth

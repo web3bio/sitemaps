@@ -3191,7 +3191,7 @@ https://web3.bio/blakefischer.eth
 https://web3.bio/enchantedmaggot.eth
 https://web3.bio/893618.eth
 https://web3.bio/namduong.eth
-https://web3.bio/sovwillmakemeabillionaire.eth
+https://web3.bio/sovwillmakemeabillionaire.eth
 https://web3.bio/0xbadb00b.eth
 https://web3.bio/j2r5m3.eth
 https://web3.bio/cereswap.eth
@@ -19412,7 +19412,6 @@ https://web3.bio/fshem.eth
 https://web3.bio/sukovkera.eth
 https://web3.bio/rusrom9.eth
 https://web3.bio/mechwarrior.eth
-https://web3.bio/&scam-alert.eth
 https://web3.bio/davidsun.eth
 https://web3.bio/omarcantos.eth
 https://web3.bio/ajder.eth
@@ -39998,3 +39997,4 @@ https://web3.bio/shokre.eth
 https://web3.bio/johnmoon.eth
 https://web3.bio/arosey.eth
 https://web3.bio/vicyeh.eth
+https://web3.bio/dylanwade.eth

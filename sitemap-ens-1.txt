@@ -14292,7 +14292,7 @@ https://web3.bio/aramanja.eth
 https://web3.bio/brighty.eth
 https://web3.bio/0xchicken.eth
 https://web3.bio/stammtischdao.eth
-https://web3.bio/three-rabbits-sit-on-a-log.eth
+https://web3.bio/three-rabbits-sit-on-a-log.eth
 https://web3.bio/y1044.eth
 https://web3.bio/0xskn.eth
 https://web3.bio/barclayscoin.eth
@@ -38314,7 +38314,7 @@ https://web3.bio/negri.eth
 https://web3.bio/qunar8.eth
 https://web3.bio/teedeepee.eth
 https://web3.bio/neeeaaalll.eth
-https://web3.bio/wolfofwallstreetmarketing.eth
+https://web3.bio/wolfofwallstreetmarketing.eth
 https://web3.bio/trippleshift.eth
 https://web3.bio/elenabot.eth
 https://web3.bio/pochang.eth
