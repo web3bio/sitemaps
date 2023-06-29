@@ -469,7 +469,6 @@ https://web3.bio/8800.eth
 https://web3.bio/frankhasaplan.eth
 https://web3.bio/masn.eth
 https://web3.bio/mrbayc.eth
-https://web3.bio/.eth
 https://web3.bio/mopiko.eth
 https://web3.bio/bazz.eth
 https://web3.bio/smartcontracts.eth
@@ -592,7 +591,7 @@ https://web3.bio/miraz.eth
 https://web3.bio/bokhaled.eth
 https://web3.bio/keirsty.eth
 https://web3.bio/keyinfluencer.eth
-https://web3.bio/maxcapacity.xcp/.eth
+https://web3.bio/maxcapacity.eth
 https://web3.bio/iambomanix.eth
 https://web3.bio/bba.eth
 https://web3.bio/riddles.eth
@@ -989,7 +988,6 @@ https://web3.bio/amanda.eth
 https://web3.bio/chelo.eth
 https://web3.bio/vellear.eth
 https://web3.bio/darkmarkart.eth
-https://web3.bio/.eth
 https://web3.bio/divineminds.eth
 https://web3.bio/raullen.eth
 https://web3.bio/cryptoboomer.eth
@@ -1155,7 +1153,6 @@ https://web3.bio/victorior.eth
 https://web3.bio/pops.eth
 https://web3.bio/spencerxsmith.eth
 https://web3.bio/penny777.eth
-https://web3.bio/.eth
 https://web3.bio/sailormars.eth
 https://web3.bio/aydinmustafa.eth
 https://web3.bio/bronzenazar.eth
@@ -1376,7 +1373,6 @@ https://web3.bio/dimabegmaphoto.eth
 https://web3.bio/snowd.eth
 https://web3.bio/korbinianvogt.eth
 https://web3.bio/regularruben.eth
-https://web3.bio/.eth
 https://web3.bio/sparks.eth
 https://web3.bio/mayanicks.eth
 https://web3.bio/🟩daila.eth
@@ -1485,7 +1481,6 @@ https://web3.bio/somean.eth
 https://web3.bio/sneey.eth
 https://web3.bio/bitlordish.eth
 https://web3.bio/creamcurtis.eth
-https://web3.bio/.eth
 https://web3.bio/barbarajones.eth
 https://web3.bio/hardaway.eth
 https://web3.bio/soy.eth
@@ -1511,8 +1506,6 @@ https://web3.bio/anon.eth
 https://web3.bio/elena.eth
 https://web3.bio/selena.eth
 https://web3.bio/brittneyscott.eth
-https://web3.bio/.tez/.eth
-https://web3.bio/.eth
 https://web3.bio/timehacker.eth
 https://web3.bio/dropte.eth
 https://web3.bio/cryptonyang0x.eth
@@ -1651,7 +1644,6 @@ https://web3.bio/jaywelsh.eth
 https://web3.bio/ouyang.eth
 https://web3.bio/n0b0dy.eth
 https://web3.bio/bladeslap.eth
-https://web3.bio/.eth
 https://web3.bio/dgen.eth
 https://web3.bio/paulkhoury.eth
 https://web3.bio/hory.eth

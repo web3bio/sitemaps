@@ -2444,7 +2444,6 @@ https://web3.bio/lpcrypto.eth
 https://web3.bio/nftsemperor.eth
 https://web3.bio/ohpepper.eth
 https://web3.bio/anunnakis.eth
-https://web3.bio/.eth
 https://web3.bio/willroll.eth
 https://web3.bio/praetorius.eth
 https://web3.bio/randella.eth
@@ -2764,7 +2763,6 @@ https://web3.bio/howardwang.eth
 https://web3.bio/cross.eth
 https://web3.bio/hongfu.eth
 https://web3.bio/ianmok.eth
-https://web3.bio/.eth
 https://web3.bio/isonare.eth
 https://web3.bio/janbenes.eth
 https://web3.bio/jooks.eth
@@ -3057,7 +3055,6 @@ https://web3.bio/ttboycrypto.eth
 https://web3.bio/danhundred.eth
 https://web3.bio/darcan.eth
 https://web3.bio/broadhurst.eth
-https://web3.bio/.eth
 https://web3.bio/drrckcnnr.eth
 https://web3.bio/eggplant🍆.eth
 https://web3.bio/palindromes®️.eth
