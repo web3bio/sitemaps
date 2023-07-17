@@ -54,4 +54,7 @@
   <sitemap>
     <loc>https://sitemaps.web3.bio/sitemap-lens-3.txt</loc>
   </sitemap>
+  <sitemap>
+    <loc>https://sitemaps.web3.bio/sitemap-farcaster-1.txt</loc>
+  </sitemap>
 </sitemapindex>
