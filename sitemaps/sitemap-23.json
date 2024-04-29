@@ -2,8 +2,6 @@
 "prev":"22",
 "next":"24",
 "data":[
-{"domain":"0xstacy.eth"},
-{"domain":"0xstaked.eth"},
 {"domain":"0xstamina.eth"},
 {"domain":"0xstan.eth"},
 {"domain":"0xstand.eth"},
@@ -501,5 +499,7 @@
 {"domain":"0xtrey.eth"},
 {"domain":"0xtrhs.eth"},
 {"domain":"0xtribevstheworld.eth"},
-{"domain":"0xtribute.eth"}
+{"domain":"0xtribute.eth"},
+{"domain":"0xtrill.eth"},
+{"domain":"0xtrillionaire.eth"}
 ]}

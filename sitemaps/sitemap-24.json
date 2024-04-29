@@ -2,8 +2,6 @@
 "prev":"23",
 "next":"25",
 "data":[
-{"domain":"0xtrill.eth"},
-{"domain":"0xtrillionaire.eth"},
 {"domain":"0xtrime.eth"},
 {"domain":"0xtrinco.eth"},
 {"domain":"0xtrinity.eth"},
@@ -501,5 +499,7 @@
 {"domain":"0xxiaocheng.eth"},
 {"domain":"0xxified.eth"},
 {"domain":"0xxilatleo.eth"},
-{"domain":"0xxinghua.eth"}
+{"domain":"0xxinghua.eth"},
+{"domain":"0xxingren.eth"},
+{"domain":"0xxinwei.eth"}
 ]}

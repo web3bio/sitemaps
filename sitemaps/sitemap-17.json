@@ -2,8 +2,6 @@
 "prev":"16",
 "next":"18",
 "data":[
-{"domain":"0xjust1n.eth"},
-{"domain":"0xjust4fun.eth"},
 {"domain":"0xjustadev.eth"},
 {"domain":"0xjustape.eth"},
 {"domain":"0xjustbet.eth"},
@@ -501,5 +499,7 @@
 {"domain":"0xlight.eth"},
 {"domain":"0xlighting.eth"},
 {"domain":"0xlightsaber.eth"},
-{"domain":"0xlightspeed.eth"}
+{"domain":"0xlightspeed.eth"},
+{"domain":"0xliji.eth"},
+{"domain":"0xlike.eth"}
 ]}

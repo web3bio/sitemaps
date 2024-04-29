@@ -2,13 +2,6 @@
 "prev":"48",
 "next":"50",
 "data":[
-{"domain":"63376.eth"},
-{"domain":"6339.eth"},
-{"domain":"63405.eth"},
-{"domain":"63411.eth"},
-{"domain":"63412.eth"},
-{"domain":"634town.eth"},
-{"domain":"635.eth"},
 {"domain":"635102.eth"},
 {"domain":"63519.eth"},
 {"domain":"635191.eth"},
@@ -501,5 +494,12 @@
 {"domain":"666anonymous.eth"},
 {"domain":"666baphom.eth"},
 {"domain":"666bs.eth"},
-{"domain":"666btc.eth"}
+{"domain":"666btc.eth"},
+{"domain":"666capital.eth"},
+{"domain":"666cheeseburger.eth"},
+{"domain":"666crypto.eth"},
+{"domain":"666d.eth"},
+{"domain":"666dao.eth"},
+{"domain":"666davis.eth"},
+{"domain":"666dev.eth"}
 ]}

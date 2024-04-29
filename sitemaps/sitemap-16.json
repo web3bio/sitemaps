@@ -2,8 +2,6 @@
 "prev":"15",
 "next":"17",
 "data":[
-{"domain":"0xhossein.eth"},
-{"domain":"0xhotchocolate.eth"},
 {"domain":"0xhotdog.eth"},
 {"domain":"0xhotnspicy.eth"},
 {"domain":"0xhotsauce.eth"},
@@ -501,5 +499,7 @@
 {"domain":"0xjura.eth"},
 {"domain":"0xjuran.eth"},
 {"domain":"0xjure.eth"},
-{"domain":"0xjust1.eth"}
+{"domain":"0xjust1.eth"},
+{"domain":"0xjust1n.eth"},
+{"domain":"0xjust4fun.eth"}
 ]}

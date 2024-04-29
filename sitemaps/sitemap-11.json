@@ -2,8 +2,6 @@
 "prev":"10",
 "next":"12",
 "data":[
-{"domain":"0xbiig.eth"},
-{"domain":"0xbiju.eth"},
 {"domain":"0xbiker.eth"},
 {"domain":"0xbilal.eth"},
 {"domain":"0xbilbo.eth"},
@@ -501,5 +499,7 @@
 {"domain":"0xchanglin.eth"},
 {"domain":"0xchao.eth"},
 {"domain":"0xchao5566.eth"},
-{"domain":"0xchar.eth"}
+{"domain":"0xchar.eth"},
+{"domain":"0xcharl.eth"},
+{"domain":"0xcharles.eth"}
 ]}

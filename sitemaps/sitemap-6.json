@@ -2,7 +2,6 @@
 "prev":"5",
 "next":"7",
 "data":[
-{"domain":"0x000000000.eth"},
 {"domain":"0x00000000000.eth"},
 {"domain":"0x000000000000000.eth"},
 {"domain":"0x0000000000000000000000000000000000.eth"},
@@ -501,5 +500,6 @@
 {"domain":"0x168888.eth"},
 {"domain":"0x16888888.eth"},
 {"domain":"0x1698.eth"},
-{"domain":"0x16989.eth"}
+{"domain":"0x16989.eth"},
+{"domain":"0x16b.eth"}
 ]}

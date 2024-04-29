@@ -2,8 +2,6 @@
 "prev":"21",
 "next":"23",
 "data":[
-{"domain":"0xsamuel.eth"},
-{"domain":"0xsamurai.eth"},
 {"domain":"0xsamy.eth"},
 {"domain":"0xsan.eth"},
 {"domain":"0xsand.eth"},
@@ -501,5 +499,7 @@
 {"domain":"0xssxssx0.eth"},
 {"domain":"0xsta.eth"},
 {"domain":"0xstabby.eth"},
-{"domain":"0xstackz.eth"}
+{"domain":"0xstackz.eth"},
+{"domain":"0xstacy.eth"},
+{"domain":"0xstaked.eth"}
 ]}

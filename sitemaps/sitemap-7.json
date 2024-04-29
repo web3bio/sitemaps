@@ -2,7 +2,6 @@
 "prev":"6",
 "next":"8",
 "data":[
-{"domain":"0x16b.eth"},
 {"domain":"0x16c.eth"},
 {"domain":"0x16d7bca.eth"},
 {"domain":"0x16z0x.eth"},
@@ -219,7 +218,6 @@
 {"domain":"0x23cold.eth"},
 {"domain":"0x23stake.eth"},
 {"domain":"0x24-7.eth"},
-{"domain":"0x24/7.eth"},
 {"domain":"0x2403d.eth"},
 {"domain":"0x2432.eth"},
 {"domain":"0x2435.eth"},
@@ -501,5 +499,7 @@
 {"domain":"0x491.eth"},
 {"domain":"0x4954.eth"},
 {"domain":"0x4980.eth"},
-{"domain":"0x4988.eth"}
+{"domain":"0x4988.eth"},
+{"domain":"0x4989.eth"},
+{"domain":"0x49994.eth"}
 ]}

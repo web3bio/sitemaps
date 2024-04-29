@@ -2,11 +2,6 @@
 "prev":"37",
 "next":"39",
 "data":[
-{"domain":"2bays.eth"},
-{"domain":"2beat.eth"},
-{"domain":"2beers.eth"},
-{"domain":"2bigmacs.eth"},
-{"domain":"2billions.eth"},
 {"domain":"2birds1nest.eth"},
 {"domain":"2bitcoin.eth"},
 {"domain":"2blinx.eth"},
@@ -501,5 +496,10 @@
 {"domain":"30h4investments.eth"},
 {"domain":"30irvan.eth"},
 {"domain":"30kuai.eth"},
-{"domain":"30march.eth"}
+{"domain":"30march.eth"},
+{"domain":"30minmax.eth"},
+{"domain":"30percent.eth"},
+{"domain":"30rack.eth"},
+{"domain":"30rackpack.eth"},
+{"domain":"30sec2mars.eth"}
 ]}

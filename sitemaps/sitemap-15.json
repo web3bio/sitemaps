@@ -2,8 +2,6 @@
 "prev":"14",
 "next":"16",
 "data":[
-{"domain":"0xgalaxy.eth"},
-{"domain":"0xgallion.eth"},
 {"domain":"0xgalt.eth"},
 {"domain":"0xgalxe.eth"},
 {"domain":"0xgamb1t.eth"},
@@ -501,5 +499,7 @@
 {"domain":"0xhoscarlett.eth"},
 {"domain":"0xhoseyn.eth"},
 {"domain":"0xhosomaki.eth"},
-{"domain":"0xhoss.eth"}
+{"domain":"0xhoss.eth"},
+{"domain":"0xhossein.eth"},
+{"domain":"0xhotchocolate.eth"}
 ]}

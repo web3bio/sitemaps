@@ -2,8 +2,6 @@
 "prev":"13",
 "next":"15",
 "data":[
-{"domain":"0xemerttosun.eth"},
-{"domain":"0xemic.eth"},
 {"domain":"0xemin.eth"},
 {"domain":"0xemission.eth"},
 {"domain":"0xemm.eth"},
@@ -501,5 +499,7 @@
 {"domain":"0xgafu.eth"},
 {"domain":"0xgaia.eth"},
 {"domain":"0xgala.eth"},
-{"domain":"0xgalahad.eth"}
+{"domain":"0xgalahad.eth"},
+{"domain":"0xgalaxy.eth"},
+{"domain":"0xgallion.eth"}
 ]}

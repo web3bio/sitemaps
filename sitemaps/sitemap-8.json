@@ -2,8 +2,6 @@
 "prev":"7",
 "next":"9",
 "data":[
-{"domain":"0x4989.eth"},
-{"domain":"0x49994.eth"},
 {"domain":"0x49b5.eth"},
 {"domain":"0x4a42.eth"},
 {"domain":"0x4a696d.eth"},
@@ -501,5 +499,7 @@
 {"domain":"0x888888888.eth"},
 {"domain":"0x88888888888.eth"},
 {"domain":"0x8888eth.eth"},
-{"domain":"0x888911.eth"}
+{"domain":"0x888911.eth"},
+{"domain":"0x88896.eth"},
+{"domain":"0x888nft.eth"}
 ]}

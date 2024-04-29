@@ -2,13 +2,6 @@
 "prev":"45",
 "next":"47",
 "data":[
-{"domain":"52blue.eth"},
-{"domain":"52btc.eth"},
-{"domain":"52cards.eth"},
-{"domain":"52chi.eth"},
-{"domain":"52crypto.eth"},
-{"domain":"52cryptorate.eth"},
-{"domain":"52defi.eth"},
 {"domain":"52dimensions.eth"},
 {"domain":"52hz.eth"},
 {"domain":"52i52.eth"},
@@ -501,5 +494,12 @@
 {"domain":"565444.eth"},
 {"domain":"56546.eth"},
 {"domain":"56565566.eth"},
-{"domain":"565656.eth"}
+{"domain":"565656.eth"},
+{"domain":"56565656.eth"},
+{"domain":"56568.eth"},
+{"domain":"565759.eth"},
+{"domain":"56576.eth"},
+{"domain":"565767.eth"},
+{"domain":"565789.eth"},
+{"domain":"56588.eth"}
 ]}

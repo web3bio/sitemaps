@@ -465,7 +465,6 @@
 {"domain":"0x-zebra.eth"},
 {"domain":"0x.delirious13.eth"},
 {"domain":"0x.eth"},
-{"domain":"0x/yoki.eth"},
 {"domain":"0x∞.eth"},
 {"domain":"0x🇺🇸.eth"},
 {"domain":"0x❤.eth"},
@@ -501,5 +500,6 @@
 {"domain":"0️⃣x0️⃣0️⃣.eth"},
 {"domain":"0x0000.eth"},
 {"domain":"0x00000.eth"},
-{"domain":"0x0000000.eth"}
+{"domain":"0x0000000.eth"},
+{"domain":"0x000000000.eth"}
 ]}
