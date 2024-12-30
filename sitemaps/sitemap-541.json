@@ -2,7 +2,6 @@
 "prev":"540",
 "next":"542",
 "data":[
-{"domain":"fikachu.base.eth"},
 {"domain":"fikaimut45.base.eth"},
 {"domain":"fikaplay.base.eth"},
 {"domain":"fikryz.base.eth"},
@@ -501,5 +500,6 @@
 {"domain":"frameyon.base.eth"},
 {"domain":"framez.base.eth"},
 {"domain":"franc25.base.eth"},
-{"domain":"francakafka.base.eth"}
+{"domain":"francakafka.base.eth"},
+{"domain":"francesca.base.eth"}
 ]}

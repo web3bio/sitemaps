@@ -2,7 +2,6 @@
 "prev":"708",
 "next":"710",
 "data":[
-{"domain":"starknetdodiki.lens"},
 {"domain":"starkneteco.lens"},
 {"domain":"starknetfoundation.lens"},
 {"domain":"starkprivacy.lens"},
@@ -501,5 +500,6 @@
 {"domain":"sukyo018.lens"},
 {"domain":"sul1jah.lens"},
 {"domain":"sulamoney.lens"},
-{"domain":"sulapme.lens"}
+{"domain":"sulapme.lens"},
+{"domain":"sulbam.lens"}
 ]}

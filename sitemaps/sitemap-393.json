@@ -2,7 +2,6 @@
 "prev":"392",
 "next":"394",
 "data":[
-{"domain":"sapoman.eth"},
 {"domain":"saponaria.eth"},
 {"domain":"saponia.eth"},
 {"domain":"saporito.eth"},
@@ -501,5 +500,6 @@
 {"domain":"satoshiswag.eth"},
 {"domain":"satoshitechassets.eth"},
 {"domain":"satoshitilla.eth"},
-{"domain":"satoshito.eth"}
+{"domain":"satoshito.eth"},
+{"domain":"satoshivpn.eth"}
 ]}

@@ -2,7 +2,6 @@
 "prev":"707",
 "next":"709",
 "data":[
-{"domain":"soroush.lens"},
 {"domain":"sorryvrerror.lens"},
 {"domain":"sortes.lens"},
 {"domain":"sorumz.lens"},
@@ -501,5 +500,6 @@
 {"domain":"starknet_digger.lens"},
 {"domain":"starknet.lens"},
 {"domain":"starknet37.lens"},
-{"domain":"starknet777.lens"}
+{"domain":"starknet777.lens"},
+{"domain":"starknetdodiki.lens"}
 ]}

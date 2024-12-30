@@ -2,7 +2,6 @@
 "prev":"412",
 "next":"414",
 "data":[
-{"domain":"solanashidder.eth"},
 {"domain":"solanashop.eth"},
 {"domain":"solanasol.eth"},
 {"domain":"solanastutterer.eth"},
@@ -501,5 +500,6 @@
 {"domain":"sonia.neumi.eth"},
 {"domain":"sonia123.eth"},
 {"domain":"soniasmells.eth"},
-{"domain":"soniaverse.eth"}
+{"domain":"soniaverse.eth"},
+{"domain":"sonic3.eth"}
 ]}

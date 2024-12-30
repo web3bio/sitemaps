@@ -2,7 +2,6 @@
 "prev":"448",
 "next":"450",
 "data":[
-{"domain":"trezza.eth"},
 {"domain":"trf.eth"},
 {"domain":"trfdg.eth"},
 {"domain":"trfdscxvgf791y.eth"},
@@ -501,5 +500,6 @@
 {"domain":"truecrime.eth"},
 {"domain":"truedex.eth"},
 {"domain":"trueeth.eth"},
-{"domain":"truefalse1.eth"}
+{"domain":"truefalse1.eth"},
+{"domain":"truefate.eth"}
 ]}

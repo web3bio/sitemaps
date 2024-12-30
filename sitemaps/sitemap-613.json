@@ -2,7 +2,6 @@
 "prev":"612",
 "next":"614",
 "data":[
-{"domain":"0xend.lens"},
 {"domain":"0xeniac.lens"},
 {"domain":"0xens.lens"},
 {"domain":"0xerik.lens"},
@@ -501,5 +500,6 @@
 {"domain":"0xsteamboat.lens"},
 {"domain":"0xstitch.lens"},
 {"domain":"0xstrak.lens"},
-{"domain":"0xstvg.lens"}
+{"domain":"0xstvg.lens"},
+{"domain":"0xsunnft.lens"}
 ]}

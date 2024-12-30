@@ -2,7 +2,6 @@
 "prev":"511",
 "next":"513",
 "data":[
-{"domain":"andrewz.base.eth"},
 {"domain":"andrexyz.base.eth"},
 {"domain":"andrey1.base.eth"},
 {"domain":"andrey11217.base.eth"},
@@ -501,5 +500,6 @@
 {"domain":"aproposito.base.eth"},
 {"domain":"aproximanu.base.eth"},
 {"domain":"aptairdrops.base.eth"},
-{"domain":"aptis.base.eth"}
+{"domain":"aptis.base.eth"},
+{"domain":"aptodnames.base.eth"}
 ]}

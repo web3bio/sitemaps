@@ -2,7 +2,6 @@
 "prev":"491",
 "next":"493",
 "data":[
-{"domain":"zdapricorn.eth"},
 {"domain":"zdenekmalik.eth"},
 {"domain":"zdesnetcontenta.eth"},
 {"domain":"zdewy.eth"},
@@ -501,5 +500,6 @@
 {"domain":"zerogravitycannabis.eth"},
 {"domain":"zeroguy.eth"},
 {"domain":"zerogvault.eth"},
-{"domain":"zerogwei.eth"}
+{"domain":"zerogwei.eth"},
+{"domain":"zeroh.eth"}
 ]}

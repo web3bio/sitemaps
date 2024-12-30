@@ -2,7 +2,6 @@
 "prev":"603",
 "next":"605",
 "data":[
-{"domain":"voidbreeze.base.eth"},
 {"domain":"voidclw567.base.eth"},
 {"domain":"voidcraft.base.eth"},
 {"domain":"voiddrift.base.eth"},
@@ -501,5 +500,6 @@
 {"domain":"web3focusnow.base.eth"},
 {"domain":"web3forreal.base.eth"},
 {"domain":"web3gc.base.eth"},
-{"domain":"web3geek.base.eth"}
+{"domain":"web3geek.base.eth"},
+{"domain":"web3ghostdan.base.eth"}
 ]}

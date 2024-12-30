@@ -2,7 +2,6 @@
 "prev":"436",
 "next":"438",
 "data":[
-{"domain":"thegreatestzen.eth"},
 {"domain":"thegreatoutdoors.eth"},
 {"domain":"thegreatrossario.eth"},
 {"domain":"thegreatspirit.eth"},
@@ -501,5 +500,6 @@
 {"domain":"themiamipunk.eth"},
 {"domain":"themicc.eth"},
 {"domain":"themichael.eth"},
-{"domain":"themidnight.eth"}
+{"domain":"themidnight.eth"},
+{"domain":"themidnightsafe.eth"}
 ]}

@@ -2,7 +2,6 @@
 "prev":"519",
 "next":"521",
 "data":[
-{"domain":"blaufrida.base.eth"},
 {"domain":"blauyourmind.base.eth"},
 {"domain":"blaze74.base.eth"},
 {"domain":"blaze80.base.eth"},
@@ -501,5 +500,6 @@
 {"domain":"bookerjim.base.eth"},
 {"domain":"bookerr.base.eth"},
 {"domain":"bookman.base.eth"},
-{"domain":"bookmark.base.eth"}
+{"domain":"bookmark.base.eth"},
+{"domain":"books.base.eth"}
 ]}

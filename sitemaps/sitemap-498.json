@@ -2,7 +2,6 @@
 "prev":"497",
 "next":"499",
 "data":[
-{"domain":"🏗basedconstructor.base.eth"},
 {"domain":"🏙zone.base.eth"},
 {"domain":"🏛🏛istanbul🏛🏛.base.eth"},
 {"domain":"🏛basecamp.base.eth"},
@@ -501,5 +500,6 @@
 {"domain":"0x013.base.eth"},
 {"domain":"0x01developer.base.eth"},
 {"domain":"0x01polymarket.base.eth"},
-{"domain":"0x01x.base.eth"}
+{"domain":"0x01x.base.eth"},
+{"domain":"0x023.base.eth"}
 ]}

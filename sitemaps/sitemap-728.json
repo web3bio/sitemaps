@@ -2,7 +2,6 @@
 "prev":"727",
 "next":"729",
 "data":[
-{"domain":"0x94t3z.eth.farcaster"},
 {"domain":"0x977.farcaster"},
 {"domain":"0x9813.farcaster"},
 {"domain":"0x9999.farcaster"},
@@ -501,5 +500,6 @@
 {"domain":"0xlam.farcaster"},
 {"domain":"0xlamba.farcaster"},
 {"domain":"0xlapi.farcaster"},
-{"domain":"0xlaszlo.farcaster"}
+{"domain":"0xlaszlo.farcaster"},
+{"domain":"0xlau.farcaster"}
 ]}

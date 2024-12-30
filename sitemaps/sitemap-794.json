@@ -2,7 +2,6 @@
 "prev":"793",
 "next":"795",
 "data":[
-{"domain":"scorz.eth.farcaster"},
 {"domain":"scott.farcaster"},
 {"domain":"scott7.farcaster"},
 {"domain":"scottbeale.farcaster"},
@@ -501,5 +500,6 @@
 {"domain":"shakireth.farcaster"},
 {"domain":"shakkhor.eth.farcaster"},
 {"domain":"shakkhor.farcaster"},
-{"domain":"shakmas.farcaster"}
+{"domain":"shakmas.farcaster"},
+{"domain":"shakmeta.farcaster"}
 ]}

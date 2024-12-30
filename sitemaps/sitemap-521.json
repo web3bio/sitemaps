@@ -2,7 +2,6 @@
 "prev":"520",
 "next":"522",
 "data":[
-{"domain":"books.base.eth"},
 {"domain":"bookstopll.base.eth"},
 {"domain":"bookworm.base.eth"},
 {"domain":"boombalien.base.eth"},
@@ -501,5 +500,6 @@
 {"domain":"bsc504.base.eth"},
 {"domain":"bsccdszfig.base.eth"},
 {"domain":"bsceuh.base.eth"},
-{"domain":"bse.base.eth"}
+{"domain":"bse.base.eth"},
+{"domain":"bsecoin.base.eth"}
 ]}

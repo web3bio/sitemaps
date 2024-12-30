@@ -2,7 +2,6 @@
 "prev":"523",
 "next":"525",
 "data":[
-{"domain":"cc2024.base.eth"},
 {"domain":"cc300.base.eth"},
 {"domain":"cc500.base.eth"},
 {"domain":"cc600.base.eth"},
@@ -501,5 +500,6 @@
 {"domain":"chesterking.base.eth"},
 {"domain":"chetanbhawani.base.eth"},
 {"domain":"chets1971.base.eth"},
-{"domain":"chetsvet.base.eth"}
+{"domain":"chetsvet.base.eth"},
+{"domain":"cheusaxibudet.base.eth"}
 ]}

@@ -2,7 +2,6 @@
 "prev":"576",
 "next":"578",
 "data":[
-{"domain":"oq6n258qc0.base.eth"},
 {"domain":"oqty67xcnm.base.eth"},
 {"domain":"oraclecorporation.base.eth"},
 {"domain":"oraclefreedollar.base.eth"},
@@ -501,5 +500,6 @@
 {"domain":"palmyrene.base.eth"},
 {"domain":"palmzitchin.base.eth"},
 {"domain":"paloaltocalifornia.base.eth"},
-{"domain":"palomaaradar.base.eth"}
+{"domain":"palomaaradar.base.eth"},
+{"domain":"palomacoinbase.base.eth"}
 ]}

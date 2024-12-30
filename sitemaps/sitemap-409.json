@@ -2,7 +2,6 @@
 "prev":"408",
 "next":"410",
 "data":[
-{"domain":"skybus.eth"},
 {"domain":"skybyte.eth"},
 {"domain":"skychny.eth"},
 {"domain":"skycleaner.eth"},
@@ -501,5 +500,6 @@
 {"domain":"sloud.eth"},
 {"domain":"slourp.eth"},
 {"domain":"slovakians.eth"},
-{"domain":"slovencek.eth"}
+{"domain":"slovencek.eth"},
+{"domain":"slovenian.eth"}
 ]}

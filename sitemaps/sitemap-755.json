@@ -2,7 +2,6 @@
 "prev":"754",
 "next":"756",
 "data":[
-{"domain":"fadeaway.farcaster"},
 {"domain":"fadedfate.farcaster"},
 {"domain":"faderaudi.eth.farcaster"},
 {"domain":"fadetocrypto.eth.farcaster"},
@@ -501,5 +500,6 @@
 {"domain":"fjr10.farcaster"},
 {"domain":"fjrabasco.farcaster"},
 {"domain":"fjtrd.farcaster"},
-{"domain":"fjury.farcaster"}
+{"domain":"fjury.farcaster"},
+{"domain":"fkzero.farcaster"}
 ]}

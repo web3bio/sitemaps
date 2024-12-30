@@ -2,7 +2,6 @@
 "prev":"314",
 "next":"316",
 "data":[
-{"domain":"mrgigs.eth"},
 {"domain":"mrgnasty.eth"},
 {"domain":"mrgnx.eth"},
 {"domain":"mrgnyc.eth"},
@@ -501,5 +500,6 @@
 {"domain":"mryynr.eth"},
 {"domain":"mrz007.eth"},
 {"domain":"mrz9686.eth"},
-{"domain":"mrzaluppe.eth"}
+{"domain":"mrzaluppe.eth"},
+{"domain":"mrzcus.eth"}
 ]}

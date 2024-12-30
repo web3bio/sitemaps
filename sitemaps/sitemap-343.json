@@ -2,7 +2,6 @@
 "prev":"342",
 "next":"344",
 "data":[
-{"domain":"oracle48.eth"},
 {"domain":"oracleaggregator.eth"},
 {"domain":"oracleclub.eth"},
 {"domain":"oracleexe.eth"},
@@ -501,5 +500,6 @@
 {"domain":"osamabinlarpin.eth"},
 {"domain":"osamakhan.eth"},
 {"domain":"osamudiame.eth"},
-{"domain":"osann.eth"}
+{"domain":"osann.eth"},
+{"domain":"osansan.eth"}
 ]}

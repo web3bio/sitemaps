@@ -2,7 +2,6 @@
 "prev":"219",
 "next":"221",
 "data":[
-{"domain":"historyofcoin.eth"},
 {"domain":"histri.eth"},
 {"domain":"hisvault.eth"},
 {"domain":"hit-men.eth"},
@@ -501,5 +500,6 @@
 {"domain":"hoganbridge.eth"},
 {"domain":"hoganthereformed.eth"},
 {"domain":"hoge.tkn.eth"},
-{"domain":"hogecharity.eth"}
+{"domain":"hogecharity.eth"},
+{"domain":"hogehoge.eth"}
 ]}

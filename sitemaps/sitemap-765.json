@@ -2,7 +2,6 @@
 "prev":"764",
 "next":"766",
 "data":[
-{"domain":"jbone.farcaster"},
 {"domain":"jboxer.farcaster"},
 {"domain":"jbradach.farcaster"},
 {"domain":"jbrgbm.eth.farcaster"},
@@ -501,5 +500,6 @@
 {"domain":"joeyzaza.farcaster"},
 {"domain":"joff.farcaster"},
 {"domain":"johanlira.farcaster"},
-{"domain":"johannes.farcaster"}
+{"domain":"johannes.farcaster"},
+{"domain":"johka.eth.farcaster"}
 ]}

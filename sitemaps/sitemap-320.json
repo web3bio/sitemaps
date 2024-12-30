@@ -2,7 +2,6 @@
 "prev":"319",
 "next":"321",
 "data":[
-{"domain":"mywifedoesntknow.eth"},
 {"domain":"mywifeishot.eth"},
 {"domain":"mywifeislegend.eth"},
 {"domain":"mywlt.eth"},
@@ -501,5 +500,6 @@
 {"domain":"nakebo.eth"},
 {"domain":"naked-news.eth"},
 {"domain":"nakedarmy.eth"},
-{"domain":"nakedfool.eth"}
+{"domain":"nakedfool.eth"},
+{"domain":"nakedfrog.eth"}
 ]}

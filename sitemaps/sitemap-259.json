@@ -2,7 +2,6 @@
 "prev":"258",
 "next":"260",
 "data":[
-{"domain":"kingbashik.eth"},
 {"domain":"kingbeast.eth"},
 {"domain":"kingbec.eth"},
 {"domain":"kingbeer.eth"},
@@ -501,5 +500,6 @@
 {"domain":"kirkson.eth"},
 {"domain":"kirkusmaximus.eth"},
 {"domain":"kirkvanhouten.eth"},
-{"domain":"kirkwood.eth"}
+{"domain":"kirkwood.eth"},
+{"domain":"kirlia.eth"}
 ]}

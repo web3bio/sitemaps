@@ -2,7 +2,6 @@
 "prev":"331",
 "next":"333",
 "data":[
-{"domain":"nocturnalwiz.eth"},
 {"domain":"nocturne-deployer.eth"},
 {"domain":"nocturnelabs.eth"},
 {"domain":"nocturnfm.eth"},
@@ -501,5 +500,6 @@
 {"domain":"noobcake.eth"},
 {"domain":"noobcollector.eth"},
 {"domain":"noobdao.eth"},
-{"domain":"noobdev.eth"}
+{"domain":"noobdev.eth"},
+{"domain":"nooberboy.eth"}
 ]}

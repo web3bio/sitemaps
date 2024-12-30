@@ -2,7 +2,6 @@
 "prev":"561",
 "next":"563",
 "data":[
-{"domain":"lítio.base.eth"},
 {"domain":"litlabs.base.eth"},
 {"domain":"litoflagos.base.eth"},
 {"domain":"litokamcom.base.eth"},
@@ -501,5 +500,6 @@
 {"domain":"lowsen.base.eth"},
 {"domain":"loy24.base.eth"},
 {"domain":"loydceferino.base.eth"},
-{"domain":"loyola.base.eth"}
+{"domain":"loyola.base.eth"},
+{"domain":"loysofficials.base.eth"}
 ]}

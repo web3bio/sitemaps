@@ -2,7 +2,6 @@
 "prev":"364",
 "next":"366",
 "data":[
-{"domain":"proxychat.xyz"},
 {"domain":"proxycodone.eth"},
 {"domain":"proxygsm.eth"},
 {"domain":"proxynode.eth"},
@@ -501,5 +500,6 @@
 {"domain":"puglife.eth"},
 {"domain":"puglord-mexico.eth"},
 {"domain":"pugme.eth"},
-{"domain":"pugme.isotilemetaverse.eth"}
+{"domain":"pugme.isotilemetaverse.eth"},
+{"domain":"pugnator.eth"}
 ]}

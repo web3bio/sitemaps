@@ -2,7 +2,6 @@
 "prev":"222",
 "next":"224",
 "data":[
-{"domain":"hotgame.eth"},
 {"domain":"hotgames.eth"},
 {"domain":"hotgarden.eth"},
 {"domain":"hotgate.eth"},
@@ -501,5 +500,6 @@
 {"domain":"huawe.eth"},
 {"domain":"huawei1.eth"},
 {"domain":"huawei2.eth"},
-{"domain":"huaweii.eth"}
+{"domain":"huaweii.eth"},
+{"domain":"huawey.eth"}
 ]}

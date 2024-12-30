@@ -2,7 +2,6 @@
 "prev":"432",
 "next":"434",
 "data":[
-{"domain":"terdyvut.eth"},
 {"domain":"tereaset.eth"},
 {"domain":"terehov29.eth"},
 {"domain":"terekhin.eth"},
@@ -501,5 +500,6 @@
 {"domain":"tg-golddigger.eth"},
 {"domain":"tg-techie.eth"},
 {"domain":"tgalex.eth"},
-{"domain":"tgc-deployer.eth"}
+{"domain":"tgc-deployer.eth"},
+{"domain":"tgc-staking.eth"}
 ]}

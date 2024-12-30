@@ -2,7 +2,6 @@
 "prev":"265",
 "next":"267",
 "data":[
-{"domain":"kurtoshi.eth"},
 {"domain":"kurtpan.eth"},
 {"domain":"kurtsloane.eth"},
 {"domain":"kurtsnow.eth"},
@@ -501,5 +500,6 @@
 {"domain":"l0n3r.eth"},
 {"domain":"l0ooo.eth"},
 {"domain":"l0rdkeklol.eth"},
-{"domain":"l0rdswoledemort.eth"}
+{"domain":"l0rdswoledemort.eth"},
+{"domain":"l0rdvoldemort.eth"}
 ]}

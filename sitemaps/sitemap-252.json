@@ -2,7 +2,6 @@
 "prev":"251",
 "next":"253",
 "data":[
-{"domain":"kai-wav.eth"},
 {"domain":"kai.kongz.eth"},
 {"domain":"kai0x.eth"},
 {"domain":"kai1996.eth"},
@@ -501,5 +500,6 @@
 {"domain":"kamuy.eth"},
 {"domain":"kamvreto.eth"},
 {"domain":"kamyarmr.eth"},
-{"domain":"kamyarp.eth"}
+{"domain":"kamyarp.eth"},
+{"domain":"kamyarr.eth"}
 ]}

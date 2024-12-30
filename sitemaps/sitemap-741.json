@@ -2,7 +2,6 @@
 "prev":"740",
 "next":"742",
 "data":[
-{"domain":"bon1kk.farcaster"},
 {"domain":"bonafidemogul.farcaster"},
 {"domain":"bonapp.farcaster"},
 {"domain":"bonazzoli.farcaster"},
@@ -501,5 +500,6 @@
 {"domain":"btcordinals.farcaster"},
 {"domain":"btcow.farcaster"},
 {"domain":"btcperusd.farcaster"},
-{"domain":"btcrune.farcaster"}
+{"domain":"btcrune.farcaster"},
+{"domain":"btcsatoshi.farcaster"}
 ]}

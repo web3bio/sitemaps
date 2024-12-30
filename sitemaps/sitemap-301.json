@@ -2,7 +2,6 @@
 "prev":"300",
 "next":"302",
 "data":[
-{"domain":"metacrix.eth"},
 {"domain":"metacroc.eth"},
 {"domain":"metacrush.eth"},
 {"domain":"metacrypton.eth"},
@@ -501,5 +500,6 @@
 {"domain":"metaseeds.eth"},
 {"domain":"metasenses.eth"},
 {"domain":"metaseries.eth"},
-{"domain":"metasf.eth"}
+{"domain":"metasf.eth"},
+{"domain":"metasharjah.eth"}
 ]}

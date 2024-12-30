@@ -2,7 +2,6 @@
 "prev":"457",
 "next":"459",
 "data":[
-{"domain":"uyendan.eth"},
 {"domain":"uyenne.eth"},
 {"domain":"uyenthanh.eth"},
 {"domain":"uyf.eth"},
@@ -501,5 +500,6 @@
 {"domain":"valli.eth"},
 {"domain":"vallly.eth"},
 {"domain":"vallnord.eth"},
-{"domain":"vallo.eth"}
+{"domain":"vallo.eth"},
+{"domain":"vallodidiano.eth"}
 ]}

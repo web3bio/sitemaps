@@ -2,7 +2,6 @@
 "prev":"198",
 "next":"200",
 "data":[
-{"domain":"gentlemates.eth"},
 {"domain":"gentlemendao.eth"},
 {"domain":"gentlemenofcali.eth"},
 {"domain":"gentlemensbank.eth"},
@@ -501,5 +500,6 @@
 {"domain":"gfunkmedia.eth"},
 {"domain":"gfvmedia.eth"},
 {"domain":"gfx.eth"},
-{"domain":"gfxart.eth"}
+{"domain":"gfxart.eth"},
+{"domain":"gfxdesigner.eth"}
 ]}

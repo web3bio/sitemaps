@@ -2,7 +2,6 @@
 "prev":"225",
 "next":"227",
 "data":[
-{"domain":"hyprnetwork.eth"},
 {"domain":"hypurr.eth"},
 {"domain":"hyrax.eth"},
 {"domain":"hyrcani.eth"},
@@ -501,5 +500,6 @@
 {"domain":"iamstevenmorse.eth"},
 {"domain":"iamstoned.eth"},
 {"domain":"iamsumo.eth"},
-{"domain":"iamsuryaz.eth"}
+{"domain":"iamsuryaz.eth"},
+{"domain":"iamswis.eth"}
 ]}

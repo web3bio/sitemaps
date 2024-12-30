@@ -2,7 +2,6 @@
 "prev":"772",
 "next":"774",
 "data":[
-{"domain":"lordiizzy.farcaster"},
 {"domain":"lordmob.farcaster"},
 {"domain":"lordmzn.farcaster"},
 {"domain":"lordofthecats.farcaster"},
@@ -501,5 +500,6 @@
 {"domain":"mactahvis.farcaster"},
 {"domain":"mactar.farcaster"},
 {"domain":"mactire.eth.farcaster"},
-{"domain":"mactoyne.farcaster"}
+{"domain":"mactoyne.farcaster"},
+{"domain":"macvt.farcaster"}
 ]}

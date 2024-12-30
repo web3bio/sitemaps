@@ -2,7 +2,6 @@
 "prev":"490",
 "next":"492",
 "data":[
-{"domain":"zadchris.eth"},
 {"domain":"zaddyzelensky.eth"},
 {"domain":"zade.eth"},
 {"domain":"zadediu.eth"},
@@ -501,5 +500,6 @@
 {"domain":"zdao.eth"},
 {"domain":"zdao1.eth"},
 {"domain":"zdao721test.eth"},
-{"domain":"zdaocrypto.eth"}
+{"domain":"zdaocrypto.eth"},
+{"domain":"zdapricorn.eth"}
 ]}

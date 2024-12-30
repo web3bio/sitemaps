@@ -2,7 +2,6 @@
 "prev":"200",
 "next":"202",
 "data":[
-{"domain":"gigazyzz.eth"},
 {"domain":"gigcast.eth"},
 {"domain":"gigem.eth"},
 {"domain":"gigfd.eth"},
@@ -501,5 +500,6 @@
 {"domain":"gjy360521.eth"},
 {"domain":"gjy520360.eth"},
 {"domain":"gk-jodi.eth"},
-{"domain":"gk3.eth"}
+{"domain":"gk3.eth"},
+{"domain":"gkaradim.eth"}
 ]}

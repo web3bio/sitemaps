@@ -2,7 +2,6 @@
 "prev":"578",
 "next":"580",
 "data":[
-{"domain":"pepefi.base.eth"},
 {"domain":"pepefomo.base.eth"},
 {"domain":"pepefrens.base.eth"},
 {"domain":"pepelepewthereal.base.eth"},
@@ -501,5 +500,6 @@
 {"domain":"piyoweb3.base.eth"},
 {"domain":"piyushjain.base.eth"},
 {"domain":"piyuu.base.eth"},
-{"domain":"pizdaboliy.base.eth"}
+{"domain":"pizdaboliy.base.eth"},
+{"domain":"pizdakotenku.base.eth"}
 ]}

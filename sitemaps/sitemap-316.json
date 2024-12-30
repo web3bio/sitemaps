@@ -2,7 +2,6 @@
 "prev":"315",
 "next":"317",
 "data":[
-{"domain":"mrzcus.eth"},
 {"domain":"mrzenman.eth"},
 {"domain":"mrzer0x.eth"},
 {"domain":"mrzhu.eth"},
@@ -501,5 +500,6 @@
 {"domain":"muli.eth"},
 {"domain":"mulight.eth"},
 {"domain":"mulik.eth"},
-{"domain":"mulka.eth"}
+{"domain":"mulka.eth"},
+{"domain":"mull.eth"}
 ]}

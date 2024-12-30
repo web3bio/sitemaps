@@ -2,7 +2,6 @@
 "prev":"805",
 "next":"807",
 "data":[
-{"domain":"vizkrypto.farcaster"},
 {"domain":"vizualobserver.farcaster"},
 {"domain":"vizzzix.farcaster"},
 {"domain":"vjthor.farcaster"},
@@ -501,5 +500,6 @@
 {"domain":"wdc7z.farcaster"},
 {"domain":"we.farcaster"},
 {"domain":"we3three.farcaster"},
-{"domain":"weak.farcaster"}
+{"domain":"weak.farcaster"},
+{"domain":"wealth.eth.farcaster"}
 ]}

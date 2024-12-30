@@ -2,7 +2,6 @@
 "prev":"250",
 "next":"252",
 "data":[
-{"domain":"justtheflamingo.eth"},
 {"domain":"justunseen.eth"},
 {"domain":"justup.eth"},
 {"domain":"justwa1t.eth"},
@@ -501,5 +500,6 @@
 {"domain":"kahuka.eth"},
 {"domain":"kahulabs.eth"},
 {"domain":"kahyo-vault.eth"},
-{"domain":"kahyo.eth"}
+{"domain":"kahyo.eth"},
+{"domain":"kai-wav.eth"}
 ]}

@@ -2,7 +2,6 @@
 "prev":"254",
 "next":"256",
 "data":[
-{"domain":"kayofish.eth"},
 {"domain":"kayon.eth"},
 {"domain":"kaypie.eth"},
 {"domain":"kaypikefashion.eth"},
@@ -501,5 +500,6 @@
 {"domain":"kelvin0.eth"},
 {"domain":"kelvin17.eth"},
 {"domain":"kelvinfromspace.eth"},
-{"domain":"kelvinhealth.eth"}
+{"domain":"kelvinhealth.eth"},
+{"domain":"kelvinkln.eth"}
 ]}

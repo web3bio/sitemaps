@@ -2,7 +2,6 @@
 "prev":"218",
 "next":"220",
 "data":[
-{"domain":"hidantee.eth"},
 {"domain":"hidao.eth"},
 {"domain":"hidayath.eth"},
 {"domain":"hiddenbar.eth"},
@@ -501,5 +500,6 @@
 {"domain":"history-of-bitcoin.eth"},
 {"domain":"historyishistory.eth"},
 {"domain":"historynfts.eth"},
-{"domain":"historyofbitcoin.eth"}
+{"domain":"historyofbitcoin.eth"},
+{"domain":"historyofcoin.eth"}
 ]}

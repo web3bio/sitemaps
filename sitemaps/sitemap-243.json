@@ -2,7 +2,6 @@
 "prev":"242",
 "next":"244",
 "data":[
-{"domain":"jetcraft.eth"},
 {"domain":"jeteex.eth"},
 {"domain":"jetekif.eth"},
 {"domain":"jetekiff.eth"},
@@ -501,5 +500,6 @@
 {"domain":"jiminy.eth"},
 {"domain":"jimis.eth"},
 {"domain":"jimisendrix.eth"},
-{"domain":"jimit.eth"}
+{"domain":"jimit.eth"},
+{"domain":"jimjass.eth"}
 ]}

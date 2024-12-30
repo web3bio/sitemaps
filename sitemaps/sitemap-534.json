@@ -2,7 +2,6 @@
 "prev":"533",
 "next":"535",
 "data":[
-{"domain":"djlove.base.eth"},
 {"domain":"djmaxvis.base.eth"},
 {"domain":"djmsyqr.base.eth"},
 {"domain":"djnava.base.eth"},
@@ -501,5 +500,6 @@
 {"domain":"dotalowsjillman.base.eth"},
 {"domain":"dotaproplayer1.base.eth"},
 {"domain":"dotbd.base.eth"},
-{"domain":"dotby.base.eth"}
+{"domain":"dotby.base.eth"},
+{"domain":"dotcoin2021.base.eth"}
 ]}

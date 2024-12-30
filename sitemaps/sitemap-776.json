@@ -2,7 +2,6 @@
 "prev":"775",
 "next":"777",
 "data":[
-{"domain":"maxtri.farcaster"},
 {"domain":"maxv2.farcaster"},
 {"domain":"maxvetrov92.farcaster"},
 {"domain":"maxviskov.farcaster"},
@@ -501,5 +500,6 @@
 {"domain":"metauce.eth.farcaster"},
 {"domain":"metavaas.farcaster"},
 {"domain":"metaverse-pro.farcaster"},
-{"domain":"metaverse.eth.farcaster"}
+{"domain":"metaverse.eth.farcaster"},
+{"domain":"metaverse3.farcaster"}
 ]}

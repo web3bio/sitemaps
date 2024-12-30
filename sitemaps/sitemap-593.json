@@ -2,7 +2,6 @@
 "prev":"592",
 "next":"594",
 "data":[
-{"domain":"sosat.base.eth"},
 {"domain":"sosbires.base.eth"},
 {"domain":"soscuphe.base.eth"},
 {"domain":"sosebabe.base.eth"},
@@ -501,5 +500,6 @@
 {"domain":"starterpacks.base.eth"},
 {"domain":"startime.base.eth"},
 {"domain":"startpad.base.eth"},
-{"domain":"starttimer.base.eth"}
+{"domain":"starttimer.base.eth"},
+{"domain":"starveil.base.eth"}
 ]}

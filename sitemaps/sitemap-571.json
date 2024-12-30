@@ -2,7 +2,6 @@
 "prev":"570",
 "next":"572",
 "data":[
-{"domain":"mrysfirmowecrypto.base.eth"},
 {"domain":"mryugen.base.eth"},
 {"domain":"mrzalipash.base.eth"},
 {"domain":"mrzalupkin.base.eth"},
@@ -501,5 +500,6 @@
 {"domain":"nagatopl.base.eth"},
 {"domain":"nagatorosan.base.eth"},
 {"domain":"nagendra.base.eth"},
-{"domain":"naginataverse.base.eth"}
+{"domain":"naginataverse.base.eth"},
+{"domain":"naglena.base.eth"}
 ]}

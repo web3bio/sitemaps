@@ -2,7 +2,6 @@
 "prev":"501",
 "next":"503",
 "data":[
-{"domain":"0xsaman.base.eth"},
 {"domain":"0xsample.base.eth"},
 {"domain":"0xsamy.base.eth"},
 {"domain":"0xsandy.base.eth"},
@@ -501,5 +500,6 @@
 {"domain":"1212.base.eth"},
 {"domain":"12120.base.eth"},
 {"domain":"1212121212121.base.eth"},
-{"domain":"121212121212121.base.eth"}
+{"domain":"121212121212121.base.eth"},
+{"domain":"1212121414.base.eth"}
 ]}

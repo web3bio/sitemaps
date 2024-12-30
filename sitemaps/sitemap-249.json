@@ -2,7 +2,6 @@
 "prev":"248",
 "next":"250",
 "data":[
-{"domain":"jspot.eth"},
 {"domain":"jspr.eth"},
 {"domain":"jspruance.eth"},
 {"domain":"jspunk.eth"},
@@ -501,5 +500,6 @@
 {"domain":"jumpman5.eth"},
 {"domain":"jumpnation.eth"},
 {"domain":"jumpshots.eth"},
-{"domain":"jumpstartjaney.eth"}
+{"domain":"jumpstartjaney.eth"},
+{"domain":"jumpstarts.eth"}
 ]}

@@ -2,7 +2,6 @@
 "prev":"438",
 "next":"440",
 "data":[
-{"domain":"thermals.eth"},
 {"domain":"thermalscope.eth"},
 {"domain":"thermex.eth"},
 {"domain":"thermoform.eth"},
@@ -501,5 +500,6 @@
 {"domain":"thewolfof.eth"},
 {"domain":"thewolfofballaro.eth"},
 {"domain":"thewolfofblockchain.eth"},
-{"domain":"thewolfofgamers.eth"}
+{"domain":"thewolfofgamers.eth"},
+{"domain":"thewolfofnft.eth"}
 ]}

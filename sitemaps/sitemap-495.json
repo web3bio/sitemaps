@@ -2,7 +2,6 @@
 "prev":"494",
 "next":"496",
 "data":[
-{"domain":"zkabdu.eth"},
 {"domain":"zkaibot.eth"},
 {"domain":"zkakisha.eth"},
 {"domain":"zkalfie.eth"},
@@ -501,5 +500,6 @@
 {"domain":"zodiac🗝.eth"},
 {"domain":"zodiac5.eth"},
 {"domain":"zodiacbits.eth"},
-{"domain":"zodiacdemo.eth"}
+{"domain":"zodiacdemo.eth"},
+{"domain":"zodiaconbase.eth"}
 ]}

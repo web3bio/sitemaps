@@ -2,7 +2,6 @@
 "prev":"454",
 "next":"456",
 "data":[
-{"domain":"unclealex.eth"},
 {"domain":"unclebeard.eth"},
 {"domain":"unclebeardvault.eth"},
 {"domain":"uncleben.eth"},
@@ -501,5 +500,6 @@
 {"domain":"universalpictureshomeentertainment.eth"},
 {"domain":"universalstudio.eth"},
 {"domain":"universalstudiosfl.eth"},
-{"domain":"universalstudioshomeentertainment.eth"}
+{"domain":"universalstudioshomeentertainment.eth"},
+{"domain":"universaltext.eth"}
 ]}

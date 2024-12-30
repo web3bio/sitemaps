@@ -2,7 +2,6 @@
 "prev":"773",
 "next":"775",
 "data":[
-{"domain":"macvt.farcaster"},
 {"domain":"macvynls.farcaster"},
 {"domain":"mad-dr.farcaster"},
 {"domain":"mad-man.farcaster"},
@@ -501,5 +500,6 @@
 {"domain":"marcosgo.farcaster"},
 {"domain":"marcosohleoc.farcaster"},
 {"domain":"marcosv.eth.farcaster"},
-{"domain":"marcotic.farcaster"}
+{"domain":"marcotic.farcaster"},
+{"domain":"marcus-sjolin.farcaster"}
 ]}

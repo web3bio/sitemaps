@@ -2,7 +2,6 @@
 "prev":"521",
 "next":"523",
 "data":[
-{"domain":"bsecoin.base.eth"},
 {"domain":"bsefxujopgtv.base.eth"},
 {"domain":"bsevei.base.eth"},
 {"domain":"bsevenzero.base.eth"},
@@ -501,5 +500,6 @@
 {"domain":"cahwedusan.base.eth"},
 {"domain":"caiacone.base.eth"},
 {"domain":"caicai692818501.base.eth"},
-{"domain":"caifubtcethi.base.eth"}
+{"domain":"caifubtcethi.base.eth"},
+{"domain":"cailee.base.eth"}
 ]}

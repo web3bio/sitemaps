@@ -2,7 +2,6 @@
 "prev":"530",
 "next":"532",
 "data":[
-{"domain":"darkmemetoken.base.eth"},
 {"domain":"darkness.base.eth"},
 {"domain":"darknessinraine.base.eth"},
 {"domain":"darknessless.base.eth"},
@@ -501,5 +500,6 @@
 {"domain":"defidon$.base.eth"},
 {"domain":"defidrew.base.eth"},
 {"domain":"defidriver.base.eth"},
-{"domain":"defidues.base.eth"}
+{"domain":"defidues.base.eth"},
+{"domain":"defiexplore.base.eth"}
 ]}

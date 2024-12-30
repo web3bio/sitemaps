@@ -2,7 +2,6 @@
 "prev":"455",
 "next":"457",
 "data":[
-{"domain":"universaltext.eth"},
 {"domain":"universalvalue.eth"},
 {"domain":"universalweb.eth"},
 {"domain":"universe.spig.eth"},
@@ -501,5 +500,6 @@
 {"domain":"urock-nft.eth"},
 {"domain":"uromi.eth"},
 {"domain":"urpaq.eth"},
-{"domain":"urquinaona.eth"}
+{"domain":"urquinaona.eth"},
+{"domain":"urrispa.eth"}
 ]}

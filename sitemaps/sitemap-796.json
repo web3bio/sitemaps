@@ -2,7 +2,6 @@
 "prev":"795",
 "next":"797",
 "data":[
-{"domain":"sillytuna.farcaster"},
 {"domain":"siloner.farcaster"},
 {"domain":"silotech.eth.farcaster"},
 {"domain":"silphatos.farcaster"},
@@ -501,5 +500,6 @@
 {"domain":"snakeja.farcaster"},
 {"domain":"snakepliskin.farcaster"},
 {"domain":"snamon.farcaster"},
-{"domain":"snapchat.farcaster"}
+{"domain":"snapchat.farcaster"},
+{"domain":"snapko.farcaster"}
 ]}

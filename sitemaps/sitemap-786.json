@@ -2,7 +2,6 @@
 "prev":"785",
 "next":"787",
 "data":[
-{"domain":"paw.farcaster"},
 {"domain":"pawaluodi2012.farcaster"},
 {"domain":"pawelpokrywka.farcaster"},
 {"domain":"pawlovskiii.eth.farcaster"},
@@ -501,5 +500,6 @@
 {"domain":"pinksamuraivault.eth.farcaster"},
 {"domain":"pinkyblu.farcaster"},
 {"domain":"pinkywinky.farcaster"},
-{"domain":"pinkzac.farcaster"}
+{"domain":"pinkzac.farcaster"},
+{"domain":"pinnacle.farcaster"}
 ]}

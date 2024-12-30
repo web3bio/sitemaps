@@ -2,7 +2,6 @@
 "prev":"346",
 "next":"348",
 "data":[
-{"domain":"palchemist.eth"},
 {"domain":"palcodes.eth"},
 {"domain":"palda.eth"},
 {"domain":"paldeanfates.eth"},
@@ -501,5 +500,6 @@
 {"domain":"papaswaglion.eth"},
 {"domain":"papatoshi.eth"},
 {"domain":"papatsanun.eth"},
-{"domain":"papatzulecorleone.eth"}
+{"domain":"papatzulecorleone.eth"},
+{"domain":"papavault.eth"}
 ]}

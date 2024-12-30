@@ -2,7 +2,6 @@
 "prev":"755",
 "next":"757",
 "data":[
-{"domain":"fkzero.farcaster"},
 {"domain":"fl3xx.farcaster"},
 {"domain":"fl77ex.eth.farcaster"},
 {"domain":"flabbyburd.farcaster"},
@@ -501,5 +500,6 @@
 {"domain":"futeh.eth.farcaster"},
 {"domain":"futjr.farcaster"},
 {"domain":"futreall.farcaster"},
-{"domain":"futri.farcaster"}
+{"domain":"futri.farcaster"},
+{"domain":"futurdelafrance.farcaster"}
 ]}

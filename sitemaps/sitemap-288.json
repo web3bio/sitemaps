@@ -2,7 +2,6 @@
 "prev":"287",
 "next":"289",
 "data":[
-{"domain":"mail3.eth"},
 {"domain":"mail3dao.eth"},
 {"domain":"mailboxmoney.eth"},
 {"domain":"mailchain.eth"},
@@ -501,5 +500,6 @@
 {"domain":"mali75.eth"},
 {"domain":"maliagot.eth"},
 {"domain":"maliandis.eth"},
-{"domain":"maliao.eth"}
+{"domain":"maliao.eth"},
+{"domain":"maliaroff.eth"}
 ]}

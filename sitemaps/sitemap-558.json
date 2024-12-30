@@ -2,7 +2,6 @@
 "prev":"557",
 "next":"559",
 "data":[
-{"domain":"kingdegen.base.eth"},
 {"domain":"kingdog.base.eth"},
 {"domain":"kingdombase.base.eth"},
 {"domain":"kingdomhearts.base.eth"},
@@ -501,5 +500,6 @@
 {"domain":"kosmikshape.base.eth"},
 {"domain":"kosmos44.base.eth"},
 {"domain":"kosmostar.base.eth"},
-{"domain":"kosmouh.base.eth"}
+{"domain":"kosmouh.base.eth"},
+{"domain":"kosoga.base.eth"}
 ]}

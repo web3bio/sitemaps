@@ -150,7 +150,6 @@
 {"domain":"fuseless.eth"},
 {"domain":"fuser-vault.eth"},
 {"domain":"fuserleer.eth"},
-{"domain":""fuserleer.eth"},
 {"domain":"marlonhumphrey.eth"},
 {"domain":"kosukekitajima.eth"},
 {"domain":"vincentyu.eth"},
@@ -196,7 +195,7 @@
 {"domain":"santi.eth"},
 {"domain":"nickydiamonds.eth"},
 {"domain":"yukiota.eth"},
-{"domain":"joeyl.eth""},
+{"domain":"joeyl.eth"},
 {"domain":"fuseton.eth"},
 {"domain":"fusheng.eth"},
 {"domain":"fushigi.eth"},
@@ -501,5 +500,6 @@
 {"domain":"g-cash.eth"},
 {"domain":"g-class.eth"},
 {"domain":"g-dot.eth"},
-{"domain":"g-energy.eth"}
+{"domain":"g-energy.eth"},
+{"domain":"g-mac.eth"}
 ]}

@@ -2,7 +2,6 @@
 "prev":"580",
 "next":"582",
 "data":[
-{"domain":"prateekbh.base.eth"},
 {"domain":"prathambansal.base.eth"},
 {"domain":"prathamk.base.eth"},
 {"domain":"prathamvaidya.base.eth"},
@@ -501,5 +500,6 @@
 {"domain":"qauki.base.eth"},
 {"domain":"qayaonbase.base.eth"},
 {"domain":"qaylya.base.eth"},
-{"domain":"qazan.base.eth"}
+{"domain":"qazan.base.eth"},
+{"domain":"qazplm.base.eth"}
 ]}

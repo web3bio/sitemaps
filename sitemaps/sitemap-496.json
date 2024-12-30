@@ -2,7 +2,6 @@
 "prev":"495",
 "next":"497",
 "data":[
-{"domain":"zodiaconbase.eth"},
 {"domain":"zodiacs.eth"},
 {"domain":"zodiactalismans.eth"},
 {"domain":"zodiak79.eth"},
@@ -501,5 +500,6 @@
 {"domain":"zugerpartners.eth"},
 {"domain":"zugfintech.eth"},
 {"domain":"zuglo.eth"},
-{"domain":"zugo.eth"}
+{"domain":"zugo.eth"},
+{"domain":"zugor.eth"}
 ]}

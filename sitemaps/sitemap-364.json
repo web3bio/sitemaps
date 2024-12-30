@@ -2,7 +2,6 @@
 "prev":"363",
 "next":"365",
 "data":[
-{"domain":"profdr.eth"},
 {"domain":"profemme.eth"},
 {"domain":"proferichard.eth"},
 {"domain":"profeshsnorer.eth"},
@@ -501,5 +500,6 @@
 {"domain":"proxy-1.flashprofits.eth"},
 {"domain":"proxy-let.eth"},
 {"domain":"proxy.eth"},
-{"domain":"proxy.workinggroup.eth"}
+{"domain":"proxy.workinggroup.eth"},
+{"domain":"proxychat.xyz"}
 ]}

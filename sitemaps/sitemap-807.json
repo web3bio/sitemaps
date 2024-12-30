@@ -2,7 +2,6 @@
 "prev":"806",
 "next":"808",
 "data":[
-{"domain":"wealth.eth.farcaster"},
 {"domain":"wealthfiles.farcaster"},
 {"domain":"wealthmagnet.eth.farcaster"},
 {"domain":"wealthmagnet.farcaster"},
@@ -501,5 +500,6 @@
 {"domain":"wizzfizz.farcaster"},
 {"domain":"wizzzard.farcaster"},
 {"domain":"wj.farcaster"},
-{"domain":"wkm.farcaster"}
+{"domain":"wkm.farcaster"},
+{"domain":"wkwkwk.farcaster"}
 ]}

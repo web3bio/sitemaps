@@ -2,7 +2,6 @@
 "prev":"499",
 "next":"501",
 "data":[
-{"domain":"0xcapitalist.base.eth"},
 {"domain":"0xcaptainlevi.base.eth"},
 {"domain":"0xcar9180x.base.eth"},
 {"domain":"0xcaramel.base.eth"},
@@ -501,5 +500,6 @@
 {"domain":"0xjeth.base.eth"},
 {"domain":"0xjh0n.base.eth"},
 {"domain":"0xjie.base.eth"},
-{"domain":"0xjirosano.base.eth"}
+{"domain":"0xjirosano.base.eth"},
+{"domain":"0xjitsu.base.eth"}
 ]}

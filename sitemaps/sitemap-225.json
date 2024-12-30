@@ -2,7 +2,6 @@
 "prev":"224",
 "next":"226",
 "data":[
-{"domain":"hurmie.eth"},
 {"domain":"hurr.eth"},
 {"domain":"hurr1c.eth"},
 {"domain":"hurray.eth"},
@@ -501,5 +500,6 @@
 {"domain":"hypoweb3.eth"},
 {"domain":"hypr.eth"},
 {"domain":"hyprcraft.eth"},
-{"domain":"hyprgk.eth"}
+{"domain":"hyprgk.eth"},
+{"domain":"hyprnetwork.eth"}
 ]}

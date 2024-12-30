@@ -2,7 +2,6 @@
 "prev":"602",
 "next":"604",
 "data":[
-{"domain":"vespergaslyw.base.eth"},
 {"domain":"vesperlynd.base.eth"},
 {"domain":"vespertasidh.base.eth"},
 {"domain":"vester.base.eth"},
@@ -501,5 +500,6 @@
 {"domain":"voibeo1989.base.eth"},
 {"domain":"voice.base.eth"},
 {"domain":"voicefirst.base.eth"},
-{"domain":"voiceofgodweapon.base.eth"}
+{"domain":"voiceofgodweapon.base.eth"},
+{"domain":"voidbreeze.base.eth"}
 ]}

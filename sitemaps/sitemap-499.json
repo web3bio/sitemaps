@@ -2,7 +2,6 @@
 "prev":"498",
 "next":"500",
 "data":[
-{"domain":"0x023.base.eth"},
 {"domain":"0x030.base.eth"},
 {"domain":"0x05.base.eth"},
 {"domain":"0x055.base.eth"},
@@ -501,5 +500,6 @@
 {"domain":"0xcanadadal.base.eth"},
 {"domain":"0xcandice.base.eth"},
 {"domain":"0xcao.base.eth"},
-{"domain":"0xcapita.base.eth"}
+{"domain":"0xcapita.base.eth"},
+{"domain":"0xcapitalist.base.eth"}
 ]}

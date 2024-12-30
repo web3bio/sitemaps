@@ -2,7 +2,6 @@
 "prev":"585",
 "next":"587",
 "data":[
-{"domain":"rouplou.base.eth"},
 {"domain":"rouston.base.eth"},
 {"domain":"route16.base.eth"},
 {"domain":"routernitro.base.eth"},
@@ -501,5 +500,6 @@
 {"domain":"sagevzn.base.eth"},
 {"domain":"sagha.base.eth"},
 {"domain":"sagitarius.base.eth"},
-{"domain":"sagitt.base.eth"}
+{"domain":"sagitt.base.eth"},
+{"domain":"sagojon.base.eth"}
 ]}

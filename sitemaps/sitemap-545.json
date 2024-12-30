@@ -2,7 +2,6 @@
 "prev":"544",
 "next":"546",
 "data":[
-{"domain":"godzu.base.eth"},
 {"domain":"goefe.base.eth"},
 {"domain":"goemon.base.eth"},
 {"domain":"goenka.base.eth"},
@@ -501,5 +500,6 @@
 {"domain":"greymate.base.eth"},
 {"domain":"greyrat.base.eth"},
 {"domain":"greys.base.eth"},
-{"domain":"greyscalex.base.eth"}
+{"domain":"greyscalex.base.eth"},
+{"domain":"greywolf1.base.eth"}
 ]}

@@ -2,7 +2,6 @@
 "prev":"264",
 "next":"266",
 "data":[
-{"domain":"ksa2030.eth"},
 {"domain":"ksa2space.eth"},
 {"domain":"ksabaka.eth"},
 {"domain":"ksagov.eth"},
@@ -501,5 +500,6 @@
 {"domain":"kurtatwork.eth"},
 {"domain":"kurtcobain.eth"},
 {"domain":"kurtisasia.eth"},
-{"domain":"kurtisc.eth"}
+{"domain":"kurtisc.eth"},
+{"domain":"kurtoshi.eth"}
 ]}

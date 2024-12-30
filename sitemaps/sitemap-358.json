@@ -2,7 +2,6 @@
 "prev":"357",
 "next":"359",
 "data":[
-{"domain":"plasmatorch.eth"},
 {"domain":"plasmic.eth"},
 {"domain":"plasmnetwork.eth"},
 {"domain":"plasmo.eth"},
@@ -501,5 +500,6 @@
 {"domain":"pnokn.eth"},
 {"domain":"pnops.eth"},
 {"domain":"pnounsdao.eth"},
-{"domain":"pnsam.eth"}
+{"domain":"pnsam.eth"},
+{"domain":"pntr.eth"}
 ]}

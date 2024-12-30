@@ -2,7 +2,6 @@
 "prev":"802",
 "next":"804",
 "data":[
-{"domain":"toxsam.farcaster"},
 {"domain":"toya.farcaster"},
 {"domain":"toyand.farcaster"},
 {"domain":"toyomaru.farcaster"},
@@ -501,5 +500,6 @@
 {"domain":"typeing.farcaster"},
 {"domain":"typeof.eth.farcaster"},
 {"domain":"typicalwin.farcaster"},
-{"domain":"typo.farcaster"}
+{"domain":"typo.farcaster"},
+{"domain":"typofranklin.farcaster"}
 ]}

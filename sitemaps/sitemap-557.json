@@ -2,7 +2,6 @@
 "prev":"556",
 "next":"558",
 "data":[
-{"domain":"kc1894.base.eth"},
 {"domain":"kcardinal25.base.eth"},
 {"domain":"kcask.base.eth"},
 {"domain":"kcesmat.base.eth"},
@@ -501,5 +500,6 @@
 {"domain":"kingcaroboy.base.eth"},
 {"domain":"kingcat.base.eth"},
 {"domain":"kingchino.base.eth"},
-{"domain":"kingdedede.base.eth"}
+{"domain":"kingdedede.base.eth"},
+{"domain":"kingdegen.base.eth"}
 ]}

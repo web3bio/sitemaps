@@ -2,7 +2,6 @@
 "prev":"437",
 "next":"439",
 "data":[
-{"domain":"themidnightsafe.eth"},
 {"domain":"themidnighttokersclub.eth"},
 {"domain":"themidnightvault.eth"},
 {"domain":"themies.eth"},
@@ -501,5 +500,6 @@
 {"domain":"therig.eth"},
 {"domain":"therihannabook.eth"},
 {"domain":"therise.eth"},
-{"domain":"thermal.eth"}
+{"domain":"thermal.eth"},
+{"domain":"thermals.eth"}
 ]}

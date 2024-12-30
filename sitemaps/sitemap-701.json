@@ -2,7 +2,6 @@
 "prev":"700",
 "next":"702",
 "data":[
-{"domain":"royalaid.lens"},
 {"domain":"royalchad.lens"},
 {"domain":"royalchallengersbangalore.lens"},
 {"domain":"royalcrypto.lens"},
@@ -501,5 +500,6 @@
 {"domain":"sagestorm.lens"},
 {"domain":"sagexyz.lens"},
 {"domain":"sagitov.lens"},
-{"domain":"sagitt.lens"}
+{"domain":"sagitt.lens"},
+{"domain":"sagonzis.lens"}
 ]}

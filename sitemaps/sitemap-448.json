@@ -2,7 +2,6 @@
 "prev":"447",
 "next":"449",
 "data":[
-{"domain":"tranhau.eth"},
 {"domain":"tranhoanggia.eth"},
 {"domain":"trankiet.eth"},
 {"domain":"trankil.eth"},
@@ -501,5 +500,6 @@
 {"domain":"trezoriosatoshilabs.eth"},
 {"domain":"trezornft.eth"},
 {"domain":"trezosmaze.eth"},
-{"domain":"trezpped.eth"}
+{"domain":"trezpped.eth"},
+{"domain":"trezza.eth"}
 ]}

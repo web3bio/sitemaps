@@ -2,7 +2,6 @@
 "prev":"370",
 "next":"372",
 "data":[
-{"domain":"qubecs.eth"},
 {"domain":"qubiclabs.eth"},
 {"domain":"qubing.eth"},
 {"domain":"qubitcapital.eth"},
@@ -501,5 +500,6 @@
 {"domain":"r64x.eth"},
 {"domain":"r6688.eth"},
 {"domain":"r6race.eth"},
-{"domain":"r700.eth"}
+{"domain":"r700.eth"},
+{"domain":"r8⃣.eth"}
 ]}

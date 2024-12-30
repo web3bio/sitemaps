@@ -2,7 +2,6 @@
 "prev":"505",
 "next":"507",
 "data":[
-{"domain":"62233.base.eth"},
 {"domain":"6230588747.base.eth"},
 {"domain":"6232590153.base.eth"},
 {"domain":"62512.base.eth"},
@@ -501,5 +500,6 @@
 {"domain":"8225038048.base.eth"},
 {"domain":"82258.base.eth"},
 {"domain":"82269.base.eth"},
-{"domain":"82379.base.eth"}
+{"domain":"82379.base.eth"},
+{"domain":"8240400059.base.eth"}
 ]}

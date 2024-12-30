@@ -2,7 +2,6 @@
 "prev":"792",
 "next":"794",
 "data":[
-{"domain":"salmanchike.farcaster"},
 {"domain":"salmanneedsajob.eth.farcaster"},
 {"domain":"salmansadik.eth.farcaster"},
 {"domain":"salmanv.farcaster"},
@@ -501,5 +500,6 @@
 {"domain":"scorbite.farcaster"},
 {"domain":"scorpion2011.farcaster"},
 {"domain":"scorpion27.farcaster"},
-{"domain":"scorpjee.farcaster"}
+{"domain":"scorpjee.farcaster"},
+{"domain":"scorz.eth.farcaster"}
 ]}

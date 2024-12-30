@@ -2,7 +2,6 @@
 "prev":"780",
 "next":"782",
 "data":[
-{"domain":"navq.farcaster"},
 {"domain":"navroopsingh.farcaster"},
 {"domain":"nawa.eth.farcaster"},
 {"domain":"nawala.farcaster"},
@@ -501,5 +500,6 @@
 {"domain":"nickshatilo.farcaster"},
 {"domain":"nickshi.farcaster"},
 {"domain":"nickthegrizzly.farcaster"},
-{"domain":"nickthoma.farcaster"}
+{"domain":"nickthoma.farcaster"},
+{"domain":"nicktoon.farcaster"}
 ]}

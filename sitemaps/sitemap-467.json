@@ -2,7 +2,6 @@
 "prev":"466",
 "next":"468",
 "data":[
-{"domain":"vr2.eth"},
 {"domain":"vr2025.eth"},
 {"domain":"vr30ddtt.eth"},
 {"domain":"vr46.eth"},
@@ -501,5 +500,6 @@
 {"domain":"w4games.eth"},
 {"domain":"w4lab.eth"},
 {"domain":"w4labs.eth"},
-{"domain":"w4lsh.eth"}
+{"domain":"w4lsh.eth"},
+{"domain":"w4ngyu.eth"}
 ]}

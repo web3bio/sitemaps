@@ -2,7 +2,6 @@
 "prev":"719",
 "next":"721",
 "data":[
-{"domain":"vvvvvcvvvv.lens"},
 {"domain":"vvvxxx.lens"},
 {"domain":"vvwbugowner.lens"},
 {"domain":"vvxvv.lens"},
@@ -501,5 +500,6 @@
 {"domain":"web3naming.lens"},
 {"domain":"web3nftfuture.lens"},
 {"domain":"web3ninjas.lens"},
-{"domain":"web3node.lens"}
+{"domain":"web3node.lens"},
+{"domain":"web3nomad.lens"}
 ]}

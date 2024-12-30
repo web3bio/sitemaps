@@ -2,7 +2,6 @@
 "prev":"538",
 "next":"540",
 "data":[
-{"domain":"ethpaul.base.eth"},
 {"domain":"ethpk.base.eth"},
 {"domain":"ethpro.base.eth"},
 {"domain":"ethreumdao.base.eth"},
@@ -501,5 +500,6 @@
 {"domain":"fantmassi.base.eth"},
 {"domain":"fantomask.base.eth"},
 {"domain":"fantomasofff.base.eth"},
-{"domain":"fantomass.base.eth"}
+{"domain":"fantomass.base.eth"},
+{"domain":"fantomdegen.base.eth"}
 ]}

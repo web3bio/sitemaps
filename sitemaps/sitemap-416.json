@@ -2,7 +2,6 @@
 "prev":"415",
 "next":"417",
 "data":[
-{"domain":"spartan0x.eth"},
 {"domain":"spartan1.eth"},
 {"domain":"spartan1110.eth"},
 {"domain":"spartan117.eth"},
@@ -501,5 +500,6 @@
 {"domain":"splitwise.eth"},
 {"domain":"splitworld.eth"},
 {"domain":"splix.eth"},
-{"domain":"splodge.eth"}
+{"domain":"splodge.eth"},
+{"domain":"sploitz.eth"}
 ]}

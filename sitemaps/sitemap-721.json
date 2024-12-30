@@ -2,7 +2,6 @@
 "prev":"720",
 "next":"722",
 "data":[
-{"domain":"web3nomad.lens"},
 {"domain":"web3nuggets.lens"},
 {"domain":"web3oli.lens"},
 {"domain":"web3onfire.lens"},
@@ -501,5 +500,6 @@
 {"domain":"winchestr.lens"},
 {"domain":"wincolcay.lens"},
 {"domain":"wind88.lens"},
-{"domain":"winday.lens"}
+{"domain":"winday.lens"},
+{"domain":"windbell.lens"}
 ]}

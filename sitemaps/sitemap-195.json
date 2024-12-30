@@ -2,7 +2,6 @@
 "prev":"194",
 "next":"196",
 "data":[
-{"domain":"g-mac.eth"},
 {"domain":"g-maxcharizard.eth"},
 {"domain":"g-media.eth"},
 {"domain":"g-misteryous.eth"},
@@ -501,5 +500,6 @@
 {"domain":"galstuk.eth"},
 {"domain":"galtashma.eth"},
 {"domain":"galtrade.eth"},
-{"domain":"galtuna.eth"}
+{"domain":"galtuna.eth"},
+{"domain":"galuchkefari.eth"}
 ]}

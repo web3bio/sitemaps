@@ -2,7 +2,6 @@
 "prev":"726",
 "next":"728",
 "data":[
-{"domain":"ziomalo.lens"},
 {"domain":"ziona.lens"},
 {"domain":"zionist.lens"},
 {"domain":"ziozoro.lens"},
@@ -501,5 +500,6 @@
 {"domain":"0x8888x0.farcaster"},
 {"domain":"0x8EBE.farcaster"},
 {"domain":"0x8ull5hort.farcaster"},
-{"domain":"0x949B.farcaster"}
+{"domain":"0x949B.farcaster"},
+{"domain":"0x94t3z.eth.farcaster"}
 ]}

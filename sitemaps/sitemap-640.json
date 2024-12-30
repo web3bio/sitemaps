@@ -2,7 +2,6 @@
 "prev":"639",
 "next":"641",
 "data":[
-{"domain":"cryptotaxi.lens"},
 {"domain":"cryptoteam.lens"},
 {"domain":"cryptotech.lens"},
 {"domain":"cryptotest.lens"},
@@ -501,5 +500,6 @@
 {"domain":"daeng.lens"},
 {"domain":"daeta.lens"},
 {"domain":"daffio.lens"},
-{"domain":"daffity.lens"}
+{"domain":"daffity.lens"},
+{"domain":"daffoil.lens"}
 ]}

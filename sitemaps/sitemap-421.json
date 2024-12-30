@@ -2,7 +2,6 @@
 "prev":"420",
 "next":"422",
 "data":[
-{"domain":"stg44.eth"},
 {"domain":"stgdao.eth"},
 {"domain":"stgeorge.eth"},
 {"domain":"stgeorgesuniversity.eth"},
@@ -501,5 +500,6 @@
 {"domain":"straybits.eth"},
 {"domain":"straykids.eth"},
 {"domain":"strayshot.eth"},
-{"domain":"strctrd.eth"}
+{"domain":"strctrd.eth"},
+{"domain":"strctrlsystems.eth"}
 ]}

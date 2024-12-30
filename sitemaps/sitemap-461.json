@@ -2,7 +2,6 @@
 "prev":"460",
 "next":"462",
 "data":[
-{"domain":"vector37.eth"},
 {"domain":"vectorcrypto.eth"},
 {"domain":"vectordao.eth"},
 {"domain":"vectorfinance.eth"},
@@ -501,5 +500,6 @@
 {"domain":"veronsilver.eth"},
 {"domain":"verox.eth"},
 {"domain":"veroxuk.eth"},
-{"domain":"verpiss.eth"}
+{"domain":"verpiss.eth"},
+{"domain":"verquer.eth"}
 ]}

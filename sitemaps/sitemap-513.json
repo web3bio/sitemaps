@@ -2,7 +2,6 @@
 "prev":"512",
 "next":"514",
 "data":[
-{"domain":"aptodnames.base.eth"},
 {"domain":"aptomos.base.eth"},
 {"domain":"aptos.base.eth"},
 {"domain":"aptosify.base.eth"},
@@ -501,5 +500,6 @@
 {"domain":"asefswedfaa.base.eth"},
 {"domain":"asefwsaefdsedf.base.eth"},
 {"domain":"asenamesfff.base.eth"},
-{"domain":"asepcrypt0x.base.eth"}
+{"domain":"asepcrypt0x.base.eth"},
+{"domain":"asesorcrypto.base.eth"}
 ]}

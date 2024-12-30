@@ -2,7 +2,6 @@
 "prev":"537",
 "next":"539",
 "data":[
-{"domain":"energyseventeen.base.eth"},
 {"domain":"enerjisa.base.eth"},
 {"domain":"enetatsu33.base.eth"},
 {"domain":"eneto1981.base.eth"},
@@ -501,5 +500,6 @@
 {"domain":"ethmill.base.eth"},
 {"domain":"ethmty.base.eth"},
 {"domain":"ethnoyami.base.eth"},
-{"domain":"ethox.base.eth"}
+{"domain":"ethox.base.eth"},
+{"domain":"ethpaul.base.eth"}
 ]}

@@ -2,7 +2,6 @@
 "prev":"210",
 "next":"212",
 "data":[
-{"domain":"guts-crypto.eth"},
 {"domain":"gutsd.eth"},
 {"domain":"gutsev.eth"},
 {"domain":"gutso.eth"},
@@ -501,5 +500,6 @@
 {"domain":"hackerattacks.eth"},
 {"domain":"hackerbird.eth"},
 {"domain":"hackerboost.eth"},
-{"domain":"hackerchai.eth"}
+{"domain":"hackerchai.eth"},
+{"domain":"hackerdao.eth"}
 ]}

@@ -2,7 +2,6 @@
 "prev":"796",
 "next":"798",
 "data":[
-{"domain":"snapko.farcaster"},
 {"domain":"snar.farcaster"},
 {"domain":"snarkcontracts.farcaster"},
 {"domain":"snax.eth.farcaster"},
@@ -501,5 +500,6 @@
 {"domain":"sponstar.eth.farcaster"},
 {"domain":"spookedlee.farcaster"},
 {"domain":"spookyaction-btc.farcaster"},
-{"domain":"spopy.farcaster"}
+{"domain":"spopy.farcaster"},
+{"domain":"sportmode.farcaster"}
 ]}

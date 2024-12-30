@@ -2,7 +2,6 @@
 "prev":"550",
 "next":"552",
 "data":[
-{"domain":"imsnorlax.base.eth"},
 {"domain":"imstillalive.base.eth"},
 {"domain":"imsynccy.base.eth"},
 {"domain":"imtaron.base.eth"},
@@ -501,5 +500,6 @@
 {"domain":"itsmeme.base.eth"},
 {"domain":"itsmerahmad.base.eth"},
 {"domain":"itsmerichboyhiallg.base.eth"},
-{"domain":"itsmeshaq.base.eth"}
+{"domain":"itsmeshaq.base.eth"},
+{"domain":"itsmxj.base.eth"}
 ]}

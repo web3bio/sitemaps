@@ -2,7 +2,6 @@
 "prev":"325",
 "next":"327",
 "data":[
-{"domain":"newworldorderdeployer.eth"},
 {"domain":"newworldrealestate.eth"},
 {"domain":"newyawk.eth"},
 {"domain":"newyear2024.eth"},
@@ -501,5 +500,6 @@
 {"domain":"nfteacup.eth"},
 {"domain":"nfteafor2.eth"},
 {"domain":"nftealeaf.eth"},
-{"domain":"nftearers.eth"}
+{"domain":"nftearers.eth"},
+{"domain":"nftearthl2.eth"}
 ]}

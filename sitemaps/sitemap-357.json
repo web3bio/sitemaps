@@ -2,7 +2,6 @@
 "prev":"356",
 "next":"358",
 "data":[
-{"domain":"pistorius.eth"},
 {"domain":"pisun55664.eth"},
 {"domain":"pisya.eth"},
 {"domain":"pisymbol.eth"},
@@ -501,5 +500,6 @@
 {"domain":"plasan.eth"},
 {"domain":"plasmacrypto.eth"},
 {"domain":"plasmaleo.eth"},
-{"domain":"plasmapower.eth"}
+{"domain":"plasmapower.eth"},
+{"domain":"plasmatorch.eth"}
 ]}

@@ -2,7 +2,6 @@
 "prev":"256",
 "next":"258",
 "data":[
-{"domain":"kevingough.eth"},
 {"domain":"kevingould.eth"},
 {"domain":"kevingrugnar.eth"},
 {"domain":"kevingu.eth"},
@@ -501,5 +500,6 @@
 {"domain":"kidbad.eth"},
 {"domain":"kidbutton.eth"},
 {"domain":"kidchameleon.eth"},
-{"domain":"kidcharlemagne.eth"}
+{"domain":"kidcharlemagne.eth"},
+{"domain":"kidcobra.eth"}
 ]}

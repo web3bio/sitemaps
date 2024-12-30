@@ -2,7 +2,6 @@
 "prev":"560",
 "next":"562",
 "data":[
-{"domain":"lendbit.base.eth"},
 {"domain":"lending-hero.base.eth"},
 {"domain":"lendoooors.base.eth"},
 {"domain":"lenetterri.base.eth"},
@@ -501,5 +500,6 @@
 {"domain":"litewood.base.eth"},
 {"domain":"lithium34.base.eth"},
 {"domain":"lithograph.base.eth"},
-{"domain":"lithopen.base.eth"}
+{"domain":"lithopen.base.eth"},
+{"domain":"lítio.base.eth"}
 ]}

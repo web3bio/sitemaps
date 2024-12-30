@@ -2,7 +2,6 @@
 "prev":"529",
 "next":"531",
 "data":[
-{"domain":"czworeczka.base.eth"},
 {"domain":"czyzu.base.eth"},
 {"domain":"d-irs.base.eth"},
 {"domain":"d-tech.base.eth"},
@@ -501,5 +500,6 @@
 {"domain":"darklings.base.eth"},
 {"domain":"darklion47.base.eth"},
 {"domain":"darkmage.base.eth"},
-{"domain":"darkmagiciangirl.base.eth"}
+{"domain":"darkmagiciangirl.base.eth"},
+{"domain":"darkmemetoken.base.eth"}
 ]}

@@ -2,7 +2,6 @@
 "prev":"500",
 "next":"502",
 "data":[
-{"domain":"0xjitsu.base.eth"},
 {"domain":"0xjj.base.eth"},
 {"domain":"0xjni.base.eth"},
 {"domain":"0xjoaopedro.base.eth"},
@@ -501,5 +500,6 @@
 {"domain":"0xsajid.base.eth"},
 {"domain":"0xsakura.base.eth"},
 {"domain":"0xsalpha.base.eth"},
-{"domain":"0xsalvadore.base.eth"}
+{"domain":"0xsalvadore.base.eth"},
+{"domain":"0xsaman.base.eth"}
 ]}

@@ -2,7 +2,6 @@
 "prev":"205",
 "next":"207",
 "data":[
-{"domain":"goolnik.eth"},
 {"domain":"gooloos.eth"},
 {"domain":"goomafia.eth"},
 {"domain":"goombadeployer.eth"},
@@ -501,5 +500,6 @@
 {"domain":"goyourownway.eth"},
 {"domain":"gozal.eth"},
 {"domain":"gozdemu.eth"},
-{"domain":"gozfly.eth"}
+{"domain":"gozfly.eth"},
+{"domain":"gozila.eth"}
 ]}

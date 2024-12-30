@@ -2,7 +2,6 @@
 "prev":"425",
 "next":"427",
 "data":[
-{"domain":"suye.eth"},
 {"domain":"suyeek.eth"},
 {"domain":"suyetong.eth"},
 {"domain":"suyumo.eth"},
@@ -501,5 +500,6 @@
 {"domain":"swiss-nft.eth"},
 {"domain":"swiss-solidity.eth"},
 {"domain":"swiss08.eth"},
-{"domain":"swissacademy.eth"}
+{"domain":"swissacademy.eth"},
+{"domain":"swissarmyknife.eth"}
 ]}

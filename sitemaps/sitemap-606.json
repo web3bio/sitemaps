@@ -2,7 +2,6 @@
 "prev":"605",
 "next":"607",
 "data":[
-{"domain":"wintertoro.base.eth"},
 {"domain":"winterwater.base.eth"},
 {"domain":"winthal.base.eth"},
 {"domain":"wintonyako.base.eth"},
@@ -501,5 +500,6 @@
 {"domain":"xcoinhunter.base.eth"},
 {"domain":"xcoinpro.base.eth"},
 {"domain":"xcolossusx.base.eth"},
-{"domain":"xcryptobro.base.eth"}
+{"domain":"xcryptobro.base.eth"},
+{"domain":"xcury.base.eth"}
 ]}

@@ -2,7 +2,6 @@
 "prev":"262",
 "next":"264",
 "data":[
-{"domain":"korovaqq.eth"},
 {"domain":"korovushka.eth"},
 {"domain":"korpan.eth"},
 {"domain":"korporationdiva.eth"},
@@ -501,5 +500,6 @@
 {"domain":"krgeorge.eth"},
 {"domain":"krhft.eth"},
 {"domain":"krhpk.eth"},
-{"domain":"kriak.eth"}
+{"domain":"kriak.eth"},
+{"domain":"kricha.eth"}
 ]}

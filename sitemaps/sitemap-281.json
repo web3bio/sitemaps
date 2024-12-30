@@ -2,7 +2,6 @@
 "prev":"280",
 "next":"282",
 "data":[
-{"domain":"losricans.eth"},
 {"domain":"losrockets.eth"},
 {"domain":"losruan.eth"},
 {"domain":"lossaddict.eth"},
@@ -501,5 +500,6 @@
 {"domain":"lowfatbutter.eth"},
 {"domain":"lowhash0.eth"},
 {"domain":"lowhp.eth"},
-{"domain":"lowidos.eth"}
+{"domain":"lowidos.eth"},
+{"domain":"lowiqedition.eth"}
 ]}

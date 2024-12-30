@@ -2,7 +2,6 @@
 "prev":"465",
 "next":"467",
 "data":[
-{"domain":"voggle.eth"},
 {"domain":"vogia.eth"},
 {"domain":"vogniberix.eth"},
 {"domain":"vogt008.eth"},
@@ -501,5 +500,6 @@
 {"domain":"vr-store.eth"},
 {"domain":"vr-strip.eth"},
 {"domain":"vr.kongz.eth"},
-{"domain":"vr000m.eth"}
+{"domain":"vr000m.eth"},
+{"domain":"vr2.eth"}
 ]}

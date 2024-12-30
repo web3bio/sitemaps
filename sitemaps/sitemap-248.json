@@ -2,7 +2,6 @@
 "prev":"247",
 "next":"249",
 "data":[
-{"domain":"joshsteele.eth"},
 {"domain":"joshuacharris.eth"},
 {"domain":"joshuacs.eth"},
 {"domain":"joshuadavis.xyz"},
@@ -501,5 +500,6 @@
 {"domain":"jsouteiro.eth"},
 {"domain":"jspear.eth"},
 {"domain":"jsper.eth"},
-{"domain":"jspn.eth"}
+{"domain":"jspn.eth"},
+{"domain":"jspot.eth"}
 ]}

@@ -2,7 +2,6 @@
 "prev":"380",
 "next":"382",
 "data":[
-{"domain":"richgold.eth"},
 {"domain":"richgoldstein.eth"},
 {"domain":"richgot.eth"},
 {"domain":"richgraves.eth"},
@@ -501,5 +500,6 @@
 {"domain":"ripndrug.eth"},
 {"domain":"rippe.eth"},
 {"domain":"rippeanut.eth"},
-{"domain":"rippedaf.eth"}
+{"domain":"rippedaf.eth"},
+{"domain":"rippers.canibus.eth"}
 ]}

@@ -2,7 +2,6 @@
 "prev":"751",
 "next":"753",
 "data":[
-{"domain":"dtelecom.farcaster"},
 {"domain":"dtfinance.farcaster"},
 {"domain":"dthinks.farcaster"},
 {"domain":"dthoi0605.farcaster"},
@@ -501,5 +500,6 @@
 {"domain":"eixel.farcaster"},
 {"domain":"ejoliveira52.farcaster"},
 {"domain":"ejspode.farcaster"},
-{"domain":"eka.farcaster"}
+{"domain":"eka.farcaster"},
+{"domain":"ekaputragalih.farcaster"}
 ]}

@@ -2,7 +2,6 @@
 "prev":"774",
 "next":"776",
 "data":[
-{"domain":"marcus-sjolin.farcaster"},
 {"domain":"marcusonchain.eth.farcaster"},
 {"domain":"marcuspang.farcaster"},
 {"domain":"marek-nowak.farcaster"},
@@ -501,5 +500,6 @@
 {"domain":"maxspxtr.farcaster"},
 {"domain":"maxsus.farcaster"},
 {"domain":"maxton0x.farcaster"},
-{"domain":"maxtorres.eth.farcaster"}
+{"domain":"maxtorres.eth.farcaster"},
+{"domain":"maxtri.farcaster"}
 ]}

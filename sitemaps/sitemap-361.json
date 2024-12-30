@@ -2,7 +2,6 @@
 "prev":"360",
 "next":"362",
 "data":[
-{"domain":"popsi.eth"},
 {"domain":"popsiclefinance.eth"},
 {"domain":"popsmok.eth"},
 {"domain":"popsmoke.eth"},
@@ -501,5 +500,6 @@
 {"domain":"powellstaking.eth"},
 {"domain":"power-lock.eth"},
 {"domain":"power-runner.eth"},
-{"domain":"power😈.eth"}
+{"domain":"power😈.eth"},
+{"domain":"power2dev.eth"}
 ]}

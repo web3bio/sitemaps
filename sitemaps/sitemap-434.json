@@ -2,7 +2,6 @@
 "prev":"433",
 "next":"435",
 "data":[
-{"domain":"tgc-staking.eth"},
 {"domain":"tge.eth"},
 {"domain":"tgerring.eth"},
 {"domain":"tgezksync.eth"},
@@ -501,5 +500,6 @@
 {"domain":"thealchemy.eth"},
 {"domain":"theale.eth"},
 {"domain":"thealfredsource.eth"},
-{"domain":"thealibi.eth"}
+{"domain":"thealibi.eth"},
+{"domain":"thealienboy.eth"}
 ]}

@@ -2,7 +2,6 @@
 "prev":"367",
 "next":"369",
 "data":[
-{"domain":"punk8284.eth"},
 {"domain":"punk8286.eth"},
 {"domain":"punk8290.eth"},
 {"domain":"punk8298.eth"},
@@ -501,5 +500,6 @@
 {"domain":"purrcat.eth"},
 {"domain":"purrdeployer.eth"},
 {"domain":"purrella.pcc.eth"},
-{"domain":"purrevil.eth"}
+{"domain":"purrevil.eth"},
+{"domain":"purrf.eth"}
 ]}

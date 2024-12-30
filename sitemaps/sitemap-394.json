@@ -2,7 +2,6 @@
 "prev":"393",
 "next":"395",
 "data":[
-{"domain":"satoshivpn.eth"},
 {"domain":"satoshiwnt.eth"},
 {"domain":"satoshix.eth"},
 {"domain":"satoshkin.eth"},
@@ -501,5 +500,6 @@
 {"domain":"scamabro.eth"},
 {"domain":"scamalert9.eth"},
 {"domain":"scamboix14.eth"},
-{"domain":"scamconnect.eth"}
+{"domain":"scamconnect.eth"},
+{"domain":"scamdetector.eth"}
 ]}

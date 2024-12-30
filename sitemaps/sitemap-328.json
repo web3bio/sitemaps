@@ -2,7 +2,6 @@
 "prev":"327",
 "next":"329",
 "data":[
-{"domain":"nfxtdao.eth"},
 {"domain":"nfy.eth"},
 {"domain":"nfz.eth"},
 {"domain":"ng-capital-research-1.eth"},
@@ -501,5 +500,6 @@
 {"domain":"nicky1.eth"},
 {"domain":"nicky1base.eth"},
 {"domain":"nicky37.eth"},
-{"domain":"nicky69.eth"}
+{"domain":"nicky69.eth"},
+{"domain":"nickyan.eth"}
 ]}
